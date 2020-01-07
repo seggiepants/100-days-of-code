@@ -1,11 +1,10 @@
 # 100 Days Of Code - Log
 
-### Day 0: February 30, 2016 (Example 1)
-##### (delete me or comment me out)
+### Day 1: January 6, 2020
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: Setup.
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Thoughts:** Starting this on a whim which is probably a bad idea. I am just setting things up which yes I am counting toward the hour. I will also count doing freecodecamp.com and exercism.com curriculum work. I may even split things 50/50. I am also going to let myself skip whatever days I need as long as I get in at least two entries a week (would still be done within a year). Hopefully I don't delete this in shame shortly.
 
 **Link to work:** [Calculator App](http://www.example.com)
 
