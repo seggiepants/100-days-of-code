@@ -8,14 +8,13 @@
 
 **Link to work:** [Minesweeper](https://github.com/seggiepants/minesweeper)
 
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
+### Day 2: January 7, 2020
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: Did the [freecodecamp.org](https://www.frecodecamp.org) section on flex-grid on my lunch break. That should leave about a half hour left tonight for regular coding.
 
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Thoughts**: I sure hope I remember all these new css selectors.
 
-**Link(s) to work**: [Calculator App](http://www.example.com)
+**Link(s) to work**: [freecodecamp.org](https://www.freecodecamp.org/learn)
 
 
 ### Day 1: June 27, Monday
