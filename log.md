@@ -2,7 +2,7 @@
 
 ### Day 1: January 6, 2020
 
-**Today's Progress**: Setup.
+**Today's Progress**: Setup. Finished up through Responsive Web Design Priniples in [freecodecamp.org](https://www.freecodecamp.org).
 
 **Thoughts:** Starting this on a whim which is probably a bad idea. I am just setting things up which yes I am counting toward the hour. I will also count doing freecodecamp.com and exercism.com curriculum work. I may even split things 50/50. I am also going to let myself skip whatever days I need as long as I get in at least two entries a week (would still be done within a year). Hopefully I don't delete this in shame shortly.
 
