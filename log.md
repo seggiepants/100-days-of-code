@@ -16,13 +16,15 @@
 
 **Link(s) to work**: [freecodecamp.org](https://www.freecodecamp.org/learn)
 
+### Day N: Month Day, 2020
 
-### Day 1: June 27, Monday
+**Today's Progress**: Put stuff here, copy/paste this for new days..
 
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
+**Thoughts**: Today's deep thought(s).
 
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
+**Link(s) to work**: [Name](http://www.example.com)
 
-**Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+
+**Link(s) to projects worked on during 100 days of code**
+1. [Minesweeper](https://github.com/seggiepants/minesweeper)
+2. [Name](http://www.example.com)
