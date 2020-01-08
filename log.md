@@ -10,11 +10,11 @@
 
 ### Day 2: January 7, 2020
 
-**Today's Progress**: Did the [freecodecamp.org](https://www.frecodecamp.org) section on flex-grid on my lunch break. That should leave about a half hour left tonight for regular coding.
+**Today's Progress**: Did the [freecodecamp.org](https://www.frecodecamp.org) section on flex-grid on my lunch break. That should leave about a half hour left tonight for regular coding. Spent way too much time beginning to switch settings over to a SQLITE3 database.
 
-**Thoughts**: I sure hope I remember all these new css selectors.
+**Thoughts**: I sure hope I remember all these new css selectors. I wanted to TDD the SQLITE3 database changes, will have to do that tomorrow I guess. It does seem to be pulling in difficulty definitions but I am not using them yet. Maybe in the final version I will allow custom difficulty levels. Not saving high scores yet, but that should come soon.
 
-**Link(s) to work**: [freecodecamp.org](https://www.freecodecamp.org/learn)
+**Link(s) to work**: [Minesweeper](https://github.com/seggiepants/minesweeper)
 
 ### Day N: Month Day, 2020
 
