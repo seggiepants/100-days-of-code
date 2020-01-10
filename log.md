@@ -22,7 +22,19 @@
 
 **Thoughts**: Yup, I sure forgot a lot of the stuff I thought I might. Still this section is going to be nowhere near 300 hours. Guess I was better than I thought.
 
-**Link(s) to work**: [Responsive Web Design Project #1 - Tribute Page](https://codepen.io/seggiepants/full/rNadevO)
+**Link(s) to work**: 
+1. [codepen.io](https://codepen.io/seggiepants/full/rNadevO)
+2. [github.com](https://github.com/seggiepants/freecodecamp/tree/master/responsive%20web%20design/tribute%20page)
+
+### Day 4: January 9, 2020
+
+**Today's Progress**: Started work on the survey form, the second [freecodecamp.org](https://www.freecodecamp.org) responsive web design project. I based it off the [telemarketer counter script](https://egbg.home.xs4all.nl/counterscript.html). Now I want to make it look good. Ooops. It is only part done too. You can take a look at what I have so far.
+
+**Thoughts**: This is starting to grind already. I am always spending too much time to keep this sustainable.
+
+**Link(s) to work**: 
+1. [codepen.io](https://codepen.io/seggiepants/full/mdyxgdN)
+2. [github.com](https://github.com/seggiepants/freecodecamp/tree/master/responsive%20web%20design/survey%20form)
 
 ### Day N: Month Day, 2020
 
@@ -35,4 +47,6 @@
 
 **Link(s) to projects worked on during 100 days of code**
 1. [Minesweeper](https://github.com/seggiepants/minesweeper)
-2. [Name](http://www.example.com)
+2. [Responsive Web Design Project #1 - Tribute Page](https://codepen.io/seggiepants/full/rNadevO)
+3. [Survey Form](https://codepen.io/seggiepants/full/mdyxgdN)
+4. [Name](http://www.example.com)
