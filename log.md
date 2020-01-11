@@ -36,6 +36,17 @@
 1. [codepen.io](https://codepen.io/seggiepants/full/mdyxgdN)
 2. [github.com](https://github.com/seggiepants/freecodecamp/tree/master/responsive%20web%20design/survey%20form)
 
+### Day 5: January 10, 2020
+
+**Today's Progress**: More work on the survey form, I chose something too big to copy. New today is it has JavaScript functionality to show/hide sections based on answers. The JavaScript needs to be refactored already.
+
+**Thoughts**: Didn't want to do the challenge today, but I did....eventually.
+
+**Link(s) to work**: 
+1. [codepen.io](https://codepen.io/seggiepants/full/mdyxgdN)
+2. [github.com](https://github.com/seggiepants/freecodecamp/tree/master/responsive%20web%20design/survey%20form)
+
+
 ### Day N: Month Day, 2020
 
 **Today's Progress**: Put stuff here, copy/paste this for new days..
