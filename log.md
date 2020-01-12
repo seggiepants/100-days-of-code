@@ -56,6 +56,26 @@
 1. [codepen.io](https://codepen.io/seggiepants/full/mdyxgdN)
 2. [github.com](https://github.com/seggiepants/freecodecamp/tree/master/responsive%20web%20design/survey%20form)
 
+### Day 7: January 12, 2020
+
+**Today's Progress**: I detoured back to my Minesweeper game for a bit. I didn't do my tests yet. However, I did get the settings working like I wanted. I spent a whole lot of time trying to debug a reduce call which was really on in there to say I had map/filter/reduce style functions in the code. I also spent a lot of time struggling against tkinter trying to figure out how to get the radio button style menu items in the difficutly menu to be selected properly (need to create a Tk.IntVar and map it to each item). After that I also struggled a much shorter time in rebuilding the grid on click and now all of the current menu items actually work.
+
+I am still missing:
+* Win condition
+* Lose condition
+* Timing
+* High Score Load/Save/View
+* Help System
+* Getting Sphinx working as desired
+* A whole lot of tests
+* A whole lot of documentation comments.
+
+I probably spent a lot longer than an hour too, probably at least two hours. I have to stop that if I want this to be sustainable.
+
+**Thoughts**: Sunday was easier to get going on than Saturday. Not too surprising. I got tripped up on things I wasn't expecting to get tripped up on, and I didn't feel smart when I figured out the problems. Probably start on the next Responsive Web Design project tomorrow.
+
+**Link to work:** [Minesweeper](https://github.com/seggiepants/minesweeper)
+
 ### Day N: Month Day, 2020
 
 **Today's Progress**: Put stuff here, copy/paste this for new days..
