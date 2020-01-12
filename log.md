@@ -46,6 +46,15 @@
 1. [codepen.io](https://codepen.io/seggiepants/full/mdyxgdN)
 2. [github.com](https://github.com/seggiepants/freecodecamp/tree/master/responsive%20web%20design/survey%20form)
 
+### Day 6: January 11, 2020
+
+**Today's Progress**: I have spent too much time on the survey form. I finally have it feature complete and pretty much working. It isn't all that pretty, but then neither was the source inspiration. It is however actually responsive now, using both css-grid and flex selectors. Doesn't look half bad on a phone. I switched from codepen.io to working locally with http-server and Visual Studio Code as I was more comforatable that way. The local web server let me see it run on my phone which is always neat.
+
+**Thoughts**: You would think this would be easier to fit in on a Saturday, but not really. Tomorrow I may detour back to my Minesweeper game for a bit before working on the next Responsive Web Design assignment.
+
+**Link(s) to work**: 
+1. [codepen.io](https://codepen.io/seggiepants/full/mdyxgdN)
+2. [github.com](https://github.com/seggiepants/freecodecamp/tree/master/responsive%20web%20design/survey%20form)
 
 ### Day N: Month Day, 2020
 
@@ -59,5 +68,5 @@
 **Link(s) to projects worked on during 100 days of code**
 1. [Minesweeper](https://github.com/seggiepants/minesweeper)
 2. [Responsive Web Design Project #1 - Tribute Page](https://codepen.io/seggiepants/full/rNadevO)
-3. [Survey Form](https://codepen.io/seggiepants/full/mdyxgdN)
+3. [Responsive Web Design Project #2 - Survey Form](https://codepen.io/seggiepants/full/mdyxgdN)
 4. [Name](http://www.example.com)
