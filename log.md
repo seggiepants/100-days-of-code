@@ -14,7 +14,7 @@
 
 **Thoughts**: I sure hope I remember all these new css selectors. I wanted to TDD the SQLITE3 database changes, will have to do that tomorrow I guess. It does seem to be pulling in difficulty definitions but I am not using them yet. Maybe in the final version I will allow custom difficulty levels. Not saving high scores yet, but that should come soon.
 
-**Link(s) to work**: [Minesweeper](https://github.com/seggiepants/minesweeper)
+**Link to work**: [Minesweeper](https://github.com/seggiepants/minesweeper)
 
 ### Day 3: January 8, 2020
 
@@ -22,7 +22,7 @@
 
 **Thoughts**: Yup, I sure forgot a lot of the stuff I thought I might. Still this section is going to be nowhere near 300 hours. Guess I was better than I thought.
 
-**Link(s) to work**: 
+**Links to work**: 
 1. [codepen.io](https://codepen.io/seggiepants/full/rNadevO)
 2. [github.com](https://github.com/seggiepants/freecodecamp/tree/master/responsive%20web%20design/tribute%20page)
 
@@ -32,7 +32,7 @@
 
 **Thoughts**: This is starting to grind already. I am always spending too much time to keep this sustainable.
 
-**Link(s) to work**: 
+**Links to work**: 
 1. [codepen.io](https://codepen.io/seggiepants/full/mdyxgdN)
 2. [github.com](https://github.com/seggiepants/freecodecamp/tree/master/responsive%20web%20design/survey%20form)
 
@@ -42,7 +42,7 @@
 
 **Thoughts**: Didn't want to do the challenge today, but I did....eventually.
 
-**Link(s) to work**: 
+**Links to work**: 
 1. [codepen.io](https://codepen.io/seggiepants/full/mdyxgdN)
 2. [github.com](https://github.com/seggiepants/freecodecamp/tree/master/responsive%20web%20design/survey%20form)
 
@@ -52,7 +52,7 @@
 
 **Thoughts**: You would think this would be easier to fit in on a Saturday, but not really. Tomorrow I may detour back to my Minesweeper game for a bit before working on the next Responsive Web Design assignment.
 
-**Link(s) to work**: 
+**Links to work**: 
 1. [codepen.io](https://codepen.io/seggiepants/full/mdyxgdN)
 2. [github.com](https://github.com/seggiepants/freecodecamp/tree/master/responsive%20web%20design/survey%20form)
 
@@ -74,7 +74,15 @@ I probably spent a lot longer than an hour too, probably at least two hours. I h
 
 **Thoughts**: Sunday was easier to get going on than Saturday. Not too surprising. I got tripped up on things I wasn't expecting to get tripped up on, and I didn't feel smart when I figured out the problems. Probably start on the next Responsive Web Design project tomorrow.
 
-**Link to work:** [Minesweeper](https://github.com/seggiepants/minesweeper)
+### Day 8: January 13, 2020
+
+**Today's Progress**: I mocked up the product landing page form. It really needs some content, images, a video, and some polish but the skeleton in place passes the automated tests.
+
+**Thoughts**: I am wondering if I can draw pictures for the page and call it coding tomorrow. I want a CSS bubble guy waving his arms but that may be too much work.
+
+**Links to work**: 
+1. [codepen.io](https://codepen.io/seggiepants/full/yLyEZzq)
+2. [github.com](https://github.com/seggiepants/freecodecamp/tree/master/responsive%20web%20design/product%20landing%20page)
 
 ### Day N: Month Day, 2020
 
@@ -85,8 +93,9 @@ I probably spent a lot longer than an hour too, probably at least two hours. I h
 **Link(s) to work**: [Name](http://www.example.com)
 
 
-**Link(s) to projects worked on during 100 days of code**
+**Links to projects worked on during 100 days of code**
 1. [Minesweeper](https://github.com/seggiepants/minesweeper)
 2. [Responsive Web Design Project #1 - Tribute Page](https://codepen.io/seggiepants/full/rNadevO)
 3. [Responsive Web Design Project #2 - Survey Form](https://codepen.io/seggiepants/full/mdyxgdN)
+4. [Responsive Web Design Project #3 - Product Landing Page](https://codepen.io/seggiepants/full/yLyEZzq)
 4. [Name](http://www.example.com)
