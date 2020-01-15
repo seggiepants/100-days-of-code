@@ -84,6 +84,16 @@ I probably spent a lot longer than an hour too, probably at least two hours. I h
 1. [codepen.io](https://codepen.io/seggiepants/full/yLyEZzq)
 2. [github.com](https://github.com/seggiepants/freecodecamp/tree/master/responsive%20web%20design/product%20landing%20page)
 
+### Day 9: January 14, 2020
+
+**Today's Progress**: I haven't tackled the video yet, but I did get some product images made. I decided the JavaScript was going to largely be review so I did some of that on my phone inbetween things (had to turn off auto-complete on the keyboard or the whole site fails miserably). Finally I spent time trying to get the product area to behave in a reasonable manner.
+
+**Thoughts**: Video may be mostly a cheesy slideshow with a voice over. Don't expect much.
+
+**Links to work**: 
+1. [codepen.io](https://codepen.io/seggiepants/full/yLyEZzq)
+2. [github.com](https://github.com/seggiepants/freecodecamp/tree/master/responsive%20web%20design/product%20landing%20page)
+
 ### Day N: Month Day, 2020
 
 **Today's Progress**: Put stuff here, copy/paste this for new days..
