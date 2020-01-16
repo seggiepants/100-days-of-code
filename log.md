@@ -94,6 +94,16 @@ I probably spent a lot longer than an hour too, probably at least two hours. I h
 1. [codepen.io](https://codepen.io/seggiepants/full/yLyEZzq)
 2. [github.com](https://github.com/seggiepants/freecodecamp/tree/master/responsive%20web%20design/product%20landing%20page)
 
+### Day 10: January 15, 2020
+
+**Today's Progress**: Added a cheesy product video in mp4 and webm formats. I couldn't get ogg to work so it may not work in opera or some browsers with ogg as their only decoder. It was just an intentionally cheesy slideshow. Hopefully that is it for art creation for a while. I don't want to count it then spend even more time on the project. Today that was spent making the page more responsive mobile first and to make things pretty in general. Still more work to do, but I may be close to done on this project.
+
+**Thoughts**: This is cutting into my sleep time, I need to knock that off.
+
+**Links to work**: 
+1. [codepen.io](https://codepen.io/seggiepants/full/yLyEZzq)
+2. [github.com](https://github.com/seggiepants/freecodecamp/tree/master/responsive%20web%20design/product%20landing%20page)
+
 ### Day N: Month Day, 2020
 
 **Today's Progress**: Put stuff here, copy/paste this for new days..
