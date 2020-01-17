@@ -104,6 +104,15 @@ I probably spent a lot longer than an hour too, probably at least two hours. I h
 1. [codepen.io](https://codepen.io/seggiepants/full/yLyEZzq)
 2. [github.com](https://github.com/seggiepants/freecodecamp/tree/master/responsive%20web%20design/product%20landing%20page)
 
+### Day 11: January 16, 2020
+
+**Today's Progress**: Finished up the product page or at least for now. Started on technical design document. Got the tests passing. Wanted to do a Hamburger menu on mobile and got stuck.
+
+**Thoughts**: Hamburger menu isn't working right may need to consult a different website. No code pen yet.
+
+**Link to work**: [github.com](https://github.com/seggiepants/freecodecamp/tree/master/responsive%20web%20design/technical%20documentation%20page)
+
+
 ### Day N: Month Day, 2020
 
 **Today's Progress**: Put stuff here, copy/paste this for new days..
@@ -118,4 +127,5 @@ I probably spent a lot longer than an hour too, probably at least two hours. I h
 2. [Responsive Web Design Project #1 - Tribute Page](https://codepen.io/seggiepants/full/rNadevO)
 3. [Responsive Web Design Project #2 - Survey Form](https://codepen.io/seggiepants/full/mdyxgdN)
 4. [Responsive Web Design Project #3 - Product Landing Page](https://codepen.io/seggiepants/full/yLyEZzq)
+5. [Responsive Web Design Project #4 - Technical Documentation Page](https://github.com/seggiepants/freecodecamp/tree/master/responsive%20web%20design/technical%20documentation%20page)
 4. [Name](http://www.example.com)
