@@ -112,6 +112,13 @@ I probably spent a lot longer than an hour too, probably at least two hours. I h
 
 **Link to work**: [github.com](https://github.com/seggiepants/freecodecamp/tree/master/responsive%20web%20design/technical%20documentation%20page)
 
+### Day 12: January 17, 2020
+
+**Today's Progress**: All I got working was the hamburger menu. But it is now my creation instead of just a copy paste from someones blog.
+
+**Thoughts**: Shouldn't have much more to do to the page except add content. So what was I going to technically document now? Still no codepen.io link yet, didn't make one yet. Tomorrow for sure.
+
+**Link to work**: [github.com](https://github.com/seggiepants/freecodecamp/tree/master/responsive%20web%20design/technical%20documentation%20page)
 
 ### Day N: Month Day, 2020
 
