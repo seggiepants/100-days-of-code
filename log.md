@@ -122,11 +122,13 @@ I probably spent a lot longer than an hour too, probably at least two hours. I h
 
 ### Day 13: January 18, 2020
 
-**Today's Progress**: Got 20 minutes in before life interrupted, will try to get more in tonight. May have to just do some free code camp JavaScript sections on the go and call it good (but it is soooo hard to type on my phone). Anyway, I managed to get a win and lose condition on Minesweeper, no high score or timer stuff yet, but I think that is enough to call it an actual minesweeper game now. 
+**Today's Progress**: Got 20 minutes in before life interrupted, will try to get more in tonight. May have to just do some free code camp JavaScript sections on the go and call it good (but it is soooo hard to type on my phone). Anyway, I managed to get a win and lose condition on Minesweeper, no high score or timer stuff yet, but I think that is enough to call it an actual minesweeper game now. When I came back I noticed some game state related issues. I promised yesterday I would finally make a code pen for the Technical Documentation Page so I did that too. After that, I got tired and finished up with some Free Code Camp Javascript coursework.
 
 **Thoughts**: Saying you can't import a module just because there is a syntax error is bad. It should give you and error on the syntax error, not the import, grrr. Since it is technically a game now I should go back and do more exercism python exercises.
 
-**Link to work**: [Minesweeper](https://github.com/seggiepants/minesweeper)
+**Links to work**: 
+1. [Minesweeper](https://github.com/seggiepants/minesweeper)
+2. [Technical Documentation Page](https://codepen.io/seggiepants/full/BayqEVv)
 
 ### Day N: Month Day, 2020
 
@@ -142,5 +144,5 @@ I probably spent a lot longer than an hour too, probably at least two hours. I h
 2. [Responsive Web Design Project #1 - Tribute Page](https://codepen.io/seggiepants/full/rNadevO)
 3. [Responsive Web Design Project #2 - Survey Form](https://codepen.io/seggiepants/full/mdyxgdN)
 4. [Responsive Web Design Project #3 - Product Landing Page](https://codepen.io/seggiepants/full/yLyEZzq)
-5. [Responsive Web Design Project #4 - Technical Documentation Page](https://github.com/seggiepants/freecodecamp/tree/master/responsive%20web%20design/technical%20documentation%20page)
+5. [Responsive Web Design Project #4 - Technical Documentation Page](https://codepen.io/seggiepants/full/BayqEVv)
 4. [Name](http://www.example.com)
