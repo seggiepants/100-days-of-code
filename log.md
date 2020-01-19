@@ -130,6 +130,14 @@ I probably spent a lot longer than an hour too, probably at least two hours. I h
 1. [Minesweeper](https://github.com/seggiepants/minesweeper)
 2. [Technical Documentation Page](https://codepen.io/seggiepants/full/BayqEVv)
 
+### Day 14: January 19, 2020
+
+**Today's Progress**: Decided to peek ahead and look at the final projects for Javascript Algorithms and Data Structures. Ended up doing all five even though I am nowhere near done with the materials. Ooops. Guess I feel better about my Javascript competence. Didn't get the certificate yet. Not sure if the intermediate challenges are required or if you have to go through each lesson. Stayed up midnight to 1am so I guess I can take the rest of the day off if desired.
+
+**Thoughts**: Why did I stay up so late?
+
+**Link to work**: None, sorry.
+
 ### Day N: Month Day, 2020
 
 **Today's Progress**: Put stuff here, copy/paste this for new days..
