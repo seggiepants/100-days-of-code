@@ -138,6 +138,14 @@ I probably spent a lot longer than an hour too, probably at least two hours. I h
 
 **Link to work**: None, sorry.
 
+### Day 15: January 20, 2020
+
+**Today's Progress**: I finally decided on a topic for my Technical documentation page the Sierpenski triangle. I am planning to have little Javascript canvas toys on it. However, instead of working on it, I finished the [freeCodeCamp.com](https://www.freecodecamp.org/learn) Basic JavaScript section instead which took the whole hour. I did actually play around on SmileBasic for 3DS yesterday for a while in case you didn't think the 1am posting should count.
+
+**Thoughts**: Bummer I only did the learning stuff. Guess I need to get it out of the way eventually.
+
+**Link to work**: None, sorry.
+
 ### Day N: Month Day, 2020
 
 **Today's Progress**: Put stuff here, copy/paste this for new days..
