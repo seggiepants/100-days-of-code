@@ -146,6 +146,16 @@ I probably spent a lot longer than an hour too, probably at least two hours. I h
 
 **Link to work**: None, sorry.
 
+### Day 16: January 21, 2020
+
+**Today's Progress**: Finally got to work on the technical documentation page. Looks like I will be swiping a lot of content from [wikipedia](https://en.wikipedia.org/wiki/Main_Page). I am planning to have little javascript canvas objects that render the triangle using each implementation. It may be hard to work in all five required code tag sections.
+
+**Thoughts**: I was rather annoyed to see that the code tag doesn't have preformatted text by default. So I turned it on in the css but for some reason code pen isn't showing it. That makes my python code look awful.
+
+**Links to work**: 
+1. [codepen.io](https://codepen.io/seggiepants/full/BayqEVv)
+2. [github.com](https://github.com/seggiepants/freecodecamp/tree/master/responsive%20web%20design/technical%20documentation%20page)
+
 ### Day N: Month Day, 2020
 
 **Today's Progress**: Put stuff here, copy/paste this for new days..
