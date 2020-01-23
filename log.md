@@ -156,6 +156,14 @@ I probably spent a lot longer than an hour too, probably at least two hours. I h
 1. [codepen.io](https://codepen.io/seggiepants/full/BayqEVv)
 2. [github.com](https://github.com/seggiepants/freecodecamp/tree/master/responsive%20web%20design/technical%20documentation%20page)
 
+### Day 17: January 22, 2020
+
+**Today's Progress**: Long hard day at work, could only manage some [free code camp](http://freecodecamp.org/learn) Javascript lessons.
+
+**Thoughts**: I was lucky I didn't quit right here.
+
+**Link to work**: None, sorry.
+
 ### Day N: Month Day, 2020
 
 **Today's Progress**: Put stuff here, copy/paste this for new days..
