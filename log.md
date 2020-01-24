@@ -164,6 +164,17 @@ I probably spent a lot longer than an hour too, probably at least two hours. I h
 
 **Link to work**: None, sorry.
 
+### Day 18: January 23, 2020
+
+**Today's Progress**: Got the recursive and chaos game javascript animated canvas elements in (two to go L-System and Arrowhead Curve L-System). Should go back in and make the code prettier.
+
+**Thoughts**: I got the animation to stop unless the element is fully on screen. I am a bit proud of that.
+
+**Links to work**: 
+1. [codepen.io](https://codepen.io/seggiepants/full/BayqEVv)
+2. [github.com](https://github.com/seggiepants/freecodecamp/tree/master/responsive%20web%20design/technical%20documentation%20page)
+
+
 ### Day N: Month Day, 2020
 
 **Today's Progress**: Put stuff here, copy/paste this for new days..
