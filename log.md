@@ -174,6 +174,16 @@ I probably spent a lot longer than an hour too, probably at least two hours. I h
 1. [codepen.io](https://codepen.io/seggiepants/full/BayqEVv)
 2. [github.com](https://github.com/seggiepants/freecodecamp/tree/master/responsive%20web%20design/technical%20documentation%20page)
 
+### Day 19: January 24, 2020
+
+**Today's Progress**: Got the lsystem, arrowhead and triangle to tree morph javascript animations working as well as added sample python code for the morph
+
+**Thoughts**: I need to comment and clean up some of the sample code and the javascript code.
+
+**Links to work**: 
+1. [codepen.io](https://codepen.io/seggiepants/full/BayqEVv)
+2. [github.com](https://github.com/seggiepants/freecodecamp/tree/master/responsive%20web%20design/technical%20documentation%20page)
+
 
 ### Day N: Month Day, 2020
 
