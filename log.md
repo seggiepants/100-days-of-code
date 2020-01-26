@@ -184,6 +184,16 @@ I probably spent a lot longer than an hour too, probably at least two hours. I h
 1. [codepen.io](https://codepen.io/seggiepants/full/BayqEVv)
 2. [github.com](https://github.com/seggiepants/freecodecamp/tree/master/responsive%20web%20design/technical%20documentation%20page)
 
+### Day 20: January 25, 2020
+
+**Today's Progress**: I had a hard time getting myself to work on this today, but I finally did. The technical document page is pretty much all laid out now, everything is in it's section and the code and javascript applets are now in the correct place. Just need to enter all the text and pretty it up now.
+
+**Thoughts**: I might take a break and work on a different project tomorrow.
+
+**Links to work**: 
+1. [codepen.io](https://codepen.io/seggiepants/full/BayqEVv)
+2. [github.com](https://github.com/seggiepants/freecodecamp/tree/master/responsive%20web%20design/technical%20documentation%20page)
+
 
 ### Day N: Month Day, 2020
 
