@@ -197,11 +197,11 @@ I probably spent a lot longer than an hour too, probably at least two hours. I h
 
 ### Day 21: January 26, 2020
 
-**Today's Progress**: I took a break from the technical document and went back and finished up Mugwump 2D on Fuze4 Nintendo Switch. Glad to get the project off of my back log.
+**Today's Progress**: I took a break from the technical document and went back and finished up Mugwump 2D on Fuze4 Nintendo Switch. Glad to get the project off of my back log. It is actually fairly fun, maybe I will port it to SmileBasic 3DS/Switch and JavaScript for the upcoming portfolio page. I also did a few regex lessons on the JavaScript track.
 
-**Thoughts**: I will have to re-type this up manually at it is jailed onto the Switch. I started, but I am only half way through, so maybe a link tomorrow.
+**Thoughts**: I had to re-type this up manually at it is jailed onto the Switch. I expect there are several syntax errors and type-os because of that. Still it should be good enough to port.
 
-**Link to work**: pending
+**Link to work**: [github.com](https://github.com/seggiepants/rosetta/blob/master/fuze4/mugwump_2d/mugwump_2d.fuze)
 
 ### Day N: Month Day, 2020
 
