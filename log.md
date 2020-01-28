@@ -201,12 +201,12 @@ I probably spent a lot longer than an hour too, probably at least two hours. I h
 
 ### Day 22: January 27, 2020
 
-**Today's Progress**: I am feeling very sick so I just did Javascript lessons on #freeCodeCamp. I made it through regex's which got quite tricky at the end.
-
+**Today's Progress**: I am feeling very sick so I just did Javascript lessons on [freeCodeCamp](https://www.freecodecamp.org/learn). I made it through regex's which got quite tricky at the end.
 
 **Thoughts**: Never could have done that well on regex a few years ago. Did I get sick from over doing things on 100 days of code?
 
 **Link to work**: (none)
+
 
 ### Day N: Month Day, 2020
 
