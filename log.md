@@ -2,7 +2,7 @@
 
 ### Day 1: January 6, 2020
 
-**Today's Progress**: Initial Setup of this log. Finished up through Responsive Web Design Priniples in [freecodecamp.org](https://www.freecodecamp.org). Got my minesweeper code back out and got it handling left and right clicks.
+**Today's Progress**: Initial Setup of this log. Finished up through Responsive Web Design Priniciples in [freecodecamp.org](https://www.freecodecamp.org). Got my minesweeper code back out and got it handling left and right clicks.
 
 **Thoughts:** Starting this on a whim which is probably a bad idea. I am counting setting things up toward the hour but still went over anyway. I will also count doing freecodecamp.com and exercism.com curriculum work. I may even split things 50/50. I am also going to let myself skip whatever days I need as long as I get in at least two entries a week (would still be done within a year). Hopefully I don't delete this in shame shortly.
 
@@ -199,6 +199,7 @@ I probably spent a lot longer than an hour too, probably at least two hours. I h
 
 **Today's Progress**: I took a break from the technical document and went back and finished up Mugwump 2D on Fuze4 Nintendo Switch. Glad to get the project off of my back log. It is actually fairly fun, maybe I will port it to SmileBasic 3DS/Switch and JavaScript for the upcoming portfolio page. I also did a few regex lessons on the JavaScript track.
 
+
 ### Day 22: January 27, 2020
 
 **Today's Progress**: I am feeling very sick so I just did Javascript lessons on [freeCodeCamp](https://www.freecodecamp.org/learn). I made it through regex's which got quite tricky at the end.
@@ -206,6 +207,17 @@ I probably spent a lot longer than an hour too, probably at least two hours. I h
 **Thoughts**: Never could have done that well on regex a few years ago. Did I get sick from over doing things on 100 days of code?
 
 **Link to work**: (none)
+
+
+### Day 23: January 28, 2020
+
+**Today's Progress**: Still sick as a dog. Stayed home from work and just layed in bed all day expect for 100 days of code. Anyway, I finally finished up the Technical Design document and I am going to call it good.
+
+**Thoughts**: I wonder what I will finish first the Repsonsive Web Design Section or the JavaScript section.
+
+**Links to work**: 
+1. [codepen.io](https://codepen.io/seggiepants/full/BayqEVv)
+2. [github.com](https://github.com/seggiepants/freecodecamp/tree/master/responsive%20web%20design/technical%20documentation%20page)
 
 
 ### Day N: Month Day, 2020
