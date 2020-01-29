@@ -244,4 +244,5 @@ I probably spent a lot longer than an hour too, probably at least two hours. I h
 3. [Responsive Web Design Project #2 - Survey Form](https://codepen.io/seggiepants/full/mdyxgdN)
 4. [Responsive Web Design Project #3 - Product Landing Page](https://codepen.io/seggiepants/full/yLyEZzq)
 5. [Responsive Web Design Project #4 - Technical Documentation Page](https://codepen.io/seggiepants/full/BayqEVv)
-4. [Name](http://www.example.com)
+6. [Responsive Web Design Project #5 - Personal Portfolio Page](https://codepen.io/seggiepants/full/MWYdJqy)
+7. [Name](http://www.example.com)
