@@ -219,6 +219,15 @@ I probably spent a lot longer than an hour too, probably at least two hours. I h
 1. [codepen.io](https://codepen.io/seggiepants/full/BayqEVv)
 2. [github.com](https://github.com/seggiepants/freecodecamp/tree/master/responsive%20web%20design/technical%20documentation%20page)
 
+### Day 24: January 29, 2020
+
+**Today's Progress**: Can't sleep so I decided to get the 100 Days of Code out of the way. Today I started the personal portfolio. I got the tests passing but it doesn't do much else. I wanted to put my hangman game up on codepen.io, but that would not work, webpack had tendrils too deep.
+
+**Thoughts**: As they say in Dilbert this should be a living document, with items added as I finish projects.
+
+**Links to work**: 
+1. [codepen.io](https://codepen.io/seggiepants/full/MWYdJqy)
+2. [github.com](https://github.com/seggiepants/freecodecamp/tree/master/responsive%20web%20design/personal%20portfolio)
 
 ### Day N: Month Day, 2020
 
