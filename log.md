@@ -239,6 +239,17 @@ I probably spent a lot longer than an hour too, probably at least two hours. I h
 1. [codepen.io](http://localhost:8080/hangman.html)
 2. [github.com](https://github.com/seggiepants/gamedevbook/tree/master/JavaScript/HangMan)
 
+### Day 26: January 31, 2020
+
+**Today's Progress**: Still not feeling well so you get another morning entry and another dissapointment. Not sure why this Hangman game won't work. Tried to get it debugging under firefox but no real joy. Seemed to create an element and not know if was there. Maybe I need some sort of source map, I don't know. Anyway, I am going to put it away for a while. Finished up with the debugging section of the JavaScript track on [www.freecodecamp.org/learn](htt://www.freecodecamp.org/learn
+
+**Thoughts**: I am already past the 1/4 mark, I can't sit and bang my head against the wall. It took a bit of re-installing some loaders (is that my problem?) but the master branch is running locally again. Maybe I can just deploy it somewhere other than codepen.io. Also Javascript vs. Responsive Web Design which will I finish first!!! 1 project vs. 107 lessons.
+
+**Links to work**: 
+1. [codepen.io](http://localhost:8080/hangman.html)
+2. [github.com](https://github.com/seggiepants/gamedevbook/tree/master/JavaScript/HangMan)
+
+
 ### Day N: Month Day, 2020
 
 **Today's Progress**: Put stuff here, copy/paste this for new days..
