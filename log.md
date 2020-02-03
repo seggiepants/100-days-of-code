@@ -266,6 +266,14 @@ After that I got up to 15% in javascript datastructures.
 4. [Personal Portfolio Page github.com](https://github.com/seggiepants/freecodecamp/tree/master/responsive%20web%20design/persona
 
 
+### Day 28: February 2, 2020
+
+**Today's Progress**: Still super sick from the flu but I managed to do javascript datastructures on [freecodecamp.org](http://freecodecamp.org/learn).
+
+**Thoughts**: Really wish this flu would let up, I am going stir crazy just resting in bed.
+
+**Links to work**: (none for today)
+
 ### Day N: Month Day, 2020
 
 **Today's Progress**: Put stuff here, copy/paste this for new days..
@@ -283,4 +291,4 @@ After that I got up to 15% in javascript datastructures.
 5. [Responsive Web Design Project #4 - Technical Documentation Page](https://codepen.io/seggiepants/full/BayqEVv)
 6. [Responsive Web Design Project #5 - Personal Portfolio Page](https://codepen.io/seggiepants/full/MWYdJqy)
 7. [Hangman Game - Webpack example](http://segludian.com/games/hangman/)
-7. [Name](http://www.example.com)
+8. [Name](http://www.example.com)
