@@ -268,9 +268,18 @@ After that I got up to 15% in javascript datastructures.
 
 ### Day 28: February 2, 2020
 
-**Today's Progress**: Still super sick from the flu but I managed to do javascript datastructures on [freecodecamp.org](http://freecodecamp.org/learn).
+**Today's Progress**: Still super sick from the flu but I managed to do javascript datastructures on [freecodecamp](https://www.freecodecamp.org/learn).
 
 **Thoughts**: Really wish this flu would let up, I am going stir crazy just resting in bed.
+
+**Links to work**: (none for today)
+
+
+### Day 29: February 3, 2020
+
+**Today's Progress**: It snowed a bunch and I am still sick so I took another day off. (Hate needing to do that).  Anyway I got through Basic Algorithm Scripting on [freecodecamp](https://www.freecodecamp.org/learn). Once I feel better I want to get back to more code. 71 lessons left in javascript.
+
+**Thoughts**: Could have gone a bit faster if I didn't keep trying to use higher order array operations (but I don't regret trying to get a hang of them). Still soooooooo tired. Also a two hour call when you are mid way through is ... unfortunate.
 
 **Links to work**: (none for today)
 
