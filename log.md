@@ -283,6 +283,15 @@ After that I got up to 15% in javascript datastructures.
 
 **Links to work**: (none for today)
 
+
+### Day 30: February 4, 2020
+
+**Today's Progress**: Did the object orientation section in javascript. With a few minutes left over poked at the personal portfolio page a bit. No fixes there.
+
+**Thoughts**: Wow! prototype hacking for inheritence is painfully bad. Please tell me there is better class syntax just around the corner. I am pretty sure I have heard of some.
+
+**Links to work**: Too lazy to post a still broken link.
+
 ### Day N: Month Day, 2020
 
 **Today's Progress**: Put stuff here, copy/paste this for new days..
