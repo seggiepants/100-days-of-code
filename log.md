@@ -292,6 +292,14 @@ After that I got up to 15% in javascript datastructures.
 
 **Links to work**: Too lazy to post a still broken link.
 
+### Day 31: February 5, 2020
+
+**Today's Progress**: Only looked at functional programming today, didn't get too far.
+
+**Thoughts**: Too tired to put much effort in, sorry. About 31 sections left in the Javascript track.
+
+**Links to work**: None.
+
 ### Day N: Month Day, 2020
 
 **Today's Progress**: Put stuff here, copy/paste this for new days..
