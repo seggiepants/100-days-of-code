@@ -300,6 +300,15 @@ After that I got up to 15% in javascript datastructures.
 
 **Links to work**: None.
 
+### Day 32: February 6, 2020
+
+**Today's Progress**: Finished functional started the intermediate challenges got through three of them.
+
+**Thoughts**: I may finally be starting to feel better even if I am still sick. Hope to get enought energy to get back to bigger projects soon.
+
+**Links to work**: None.
+
+
 ### Day N: Month Day, 2020
 
 **Today's Progress**: Put stuff here, copy/paste this for new days..
