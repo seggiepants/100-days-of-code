@@ -308,6 +308,13 @@ After that I got up to 15% in javascript datastructures.
 
 **Links to work**: None.
 
+### Day 33: February 7, 2020
+
+**Today's Progress**: These intermediate challenges are taking forever.
+
+**Thoughts**: Gotta go back and finish the web stuff first, shouldn't I?
+
+**Links to work**: None.
 
 ### Day N: Month Day, 2020
 
