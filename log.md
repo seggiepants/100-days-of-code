@@ -247,7 +247,7 @@ I probably spent a lot longer than an hour too, probably at least two hours. I h
 
 **Links to work**: 
 1. [segludian.com](http://segludian.com/games/hangman/)
-2. [github.com](https://github.com/seggiepants/gamedevbook/tree/master/JavaScript/HangMan)l%20portfolio)
+2. [github.com](https://github.com/seggiepants/gamedevbook/tree/master/JavaScript/HangMan)
 
 ### Day 27: February 1, 2020
 
@@ -263,7 +263,7 @@ After that I got up to 15% in javascript datastructures.
 1. [Hangman segludian.com](http://segludian.com/games/hangman/)
 2. [Hangman github.com](https://github.com/seggiepants/gamedevbook/tree/master/JavaScript/HangMan)
 3. [Personal Portfolio Page codepen.io](https://codepen.io/seggiepants/full/MWYdJqy)
-4. [Personal Portfolio Page github.com](https://github.com/seggiepants/freecodecamp/tree/master/responsive%20web%20design/persona
+4. [Personal Portfolio Page github.com](https://github.com/seggiepants/freecodecamp/tree/master/responsive%20web%20design/personal%20portfolio)
 
 
 ### Day 28: February 2, 2020
@@ -315,6 +315,16 @@ After that I got up to 15% in javascript datastructures.
 **Thoughts**: Gotta go back and finish the web stuff first, shouldn't I?
 
 **Links to work**: None.
+
+### Day 34: February 8, 2020
+
+**Today's Progress**: Tired of doing just javascript exercises so I went back to my portfolio page some more. It doesn't look broken anymore huzzah.
+
+**Thoughts**: I guess I got lost when I thought project-tile should be project-ti**t**le. Oy. That put me back a lot.
+
+**Links to work**: 
+1. [Personal Portfolio Page codepen.io](https://codepen.io/seggiepants/full/MWYdJqy)
+2. [Personal Portfolio Page github.com](https://github.com/seggiepants/freecodecamp/tree/master/responsive%20web%20design/personal%20portfolio)
 
 ### Day N: Month Day, 2020
 
