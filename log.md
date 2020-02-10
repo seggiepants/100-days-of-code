@@ -326,6 +326,15 @@ After that I got up to 15% in javascript datastructures.
 1. [Personal Portfolio Page codepen.io](https://codepen.io/seggiepants/full/MWYdJqy)
 2. [Personal Portfolio Page github.com](https://github.com/seggiepants/freecodecamp/tree/master/responsive%20web%20design/personal%20portfolio)
 
+### Day 35: February 9, 2020
+
+**Today's Progress**: Just played around with Fuze4 on Nintendo Switch while waiting for laundry. Wanted to do depth first search maze generation but something is wrong. Hard to debug with no debugger, read eval print loop or a reasonable console. I will try to fix it later.
+
+**Thoughts**: Wanted to make ghost maze 3d or at least do something with 3d.
+
+**Links to work**: 
+(None)
+
 ### Day N: Month Day, 2020
 
 **Today's Progress**: Put stuff here, copy/paste this for new days..
