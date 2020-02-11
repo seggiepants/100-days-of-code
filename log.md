@@ -335,6 +335,15 @@ After that I got up to 15% in javascript datastructures.
 **Links to work**: 
 (None)
 
+### Day 36: February 10, 2020
+
+**Today's Progress**: Did more Javascript Exercises, got to 67% done.
+
+**Thoughts**: Why are these taking me soooo long.
+
+**Links to work**: 
+(None)
+
 ### Day N: Month Day, 2020
 
 **Today's Progress**: Put stuff here, copy/paste this for new days..
