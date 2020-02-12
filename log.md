@@ -344,6 +344,15 @@ After that I got up to 15% in javascript datastructures.
 **Links to work**: 
 (None)
 
+### Day 37: February 11, 2020
+
+**Today's Progress**: Finally finished the Javascript track on FreeCode camp and got my certification.
+
+**Thoughts**: I had to go find a youtube video to describe how to redeem my certification. Then it wouldn't show it to me until I made my profile public. I had to hunt for the thing. I was expecting a nice popup on completion but nooo, you gotta go find it and redeem it.
+
+**Links to work**: 
+(None)
+
 ### Day N: Month Day, 2020
 
 **Today's Progress**: Put stuff here, copy/paste this for new days..
