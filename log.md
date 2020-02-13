@@ -353,6 +353,16 @@ After that I got up to 15% in javascript datastructures.
 **Links to work**: 
 (None)
 
+### Day 38: February 12, 2020
+
+**Today's Progress**: Went back and cleaned up the personal portfolio enough to turn in and get the certification.
+
+**Thoughts**: Good enough for now I guess. Should go back and give it more love later.
+
+**Links to work**: 
+1. [Personal Portfolio Page codepen.io](https://codepen.io/seggiepants/full/MWYdJqy)
+2. [Personal Portfolio Page github.com](https://github.com/seggiepants/freecodecamp/tree/master/responsive%20web%20design/personal%20portfolio)
+
 ### Day N: Month Day, 2020
 
 **Today's Progress**: Put stuff here, copy/paste this for new days..
