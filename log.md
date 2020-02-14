@@ -363,6 +363,15 @@ After that I got up to 15% in javascript datastructures.
 1. [Personal Portfolio Page codepen.io](https://codepen.io/seggiepants/full/MWYdJqy)
 2. [Personal Portfolio Page github.com](https://github.com/seggiepants/freecodecamp/tree/master/responsive%20web%20design/personal%20portfolio)
 
+### Day 39: February 13, 2020
+
+**Today's Progress**: Went back and fixed the maze generation program I started previously on Fuze4 Nintendo Switch.
+
+**Thoughts**: Looks like you can not use recursion much. Ran out of stack space going from a 7x7 maze to a 11x11 maze. Had to make a manual stack to get a bigger maze. Doesn't look like I can dynamically push/pop from an array either. Had to make a width * height array for the manual stack.
+
+**Links to work**:
+(None) but there is a picture over on twitter.
+
 ### Day N: Month Day, 2020
 
 **Today's Progress**: Put stuff here, copy/paste this for new days..
