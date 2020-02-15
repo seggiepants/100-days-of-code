@@ -372,6 +372,15 @@ After that I got up to 15% in javascript datastructures.
 **Links to work**:
 (None) but there is a picture over on twitter.
 
+### Day 40: February 13, 2020
+
+**Today's Progress**: Wasn't sure what to do so I started the Front End Library Certification and got through the sections on bootstrap and jQuery. Wasn't expecting to get that far.
+
+**Thoughts**: May have started after midnight, still counting it as day 40 will do more later for day 41.
+
+**Links to work**:
+(None)
+
 ### Day N: Month Day, 2020
 
 **Today's Progress**: Put stuff here, copy/paste this for new days..
