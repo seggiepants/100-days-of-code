@@ -390,6 +390,16 @@ After that I got up to 15% in javascript datastructures.
 **Links to work**:
 [exercism.io](https://github.com/seggiepants/Exercism)
 
+
+### Day 42: February 16, 2020
+
+**Today's Progress**: Spent too much time on things today. I ported my Mugwump_2D program from Fuze4 (Nintendo Switch) to SmileBasic (3DS). That took a lot longer than I expected. Guess I am going to make a copy for everything eventually. Want to make Java and/or Kotlin into an android app.
+
+**Thoughts**: The smile basic api is really neat, didn't have to scream over my code for an hour to get a copy, huzzah.
+
+**Links to work**:
+[github.com](https://github.com/seggiepants/rosetta/tree/master/SmileBasic/mugwump_2d/3DS)
+
 ### Day N: Month Day, 2020
 
 **Today's Progress**: Put stuff here, copy/paste this for new days..
