@@ -372,7 +372,7 @@ After that I got up to 15% in javascript datastructures.
 **Links to work**:
 (None) but there is a picture over on twitter.
 
-### Day 40: February 13, 2020
+### Day 40: February 14, 2020
 
 **Today's Progress**: Wasn't sure what to do so I started the Front End Library Certification and got through the sections on bootstrap and jQuery. Wasn't expecting to get that far.
 
@@ -380,6 +380,15 @@ After that I got up to 15% in javascript datastructures.
 
 **Links to work**:
 (None)
+
+### Day 41: February 15, 2020
+
+**Today's Progress**: Spent a lot of time checking in my exercism.io stuff so I could count it as github stuff if I decide to do some during 100 days of code. Then I did the SASS exercises and the first 15 react exercises. The 15th exercise just wouldn't work until I reset the code. I even looked at a hint and didn't see any differences. How annoying.
+
+**Thoughts**: Sure are a lot of spammy things you have to allow to get the thing working, including one identified as a webbug :(
+
+**Links to work**:
+[exercism.io](https://github.com/seggiepants/Exercism)
 
 ### Day N: Month Day, 2020
 
