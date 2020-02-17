@@ -400,6 +400,16 @@ After that I got up to 15% in javascript datastructures.
 **Links to work**:
 [github.com](https://github.com/seggiepants/rosetta/tree/master/SmileBasic/mugwump_2d/3DS)
 
+
+### Day 43: February 17, 2020
+
+**Today's Progress**: I got to 32/47 on the React training on #freeCodeCamp today. I also ported yesterday's SmileBasic 3DS program to SmileBasic on the Switch, the key is: 44J4DB3WD
+
+**Thoughts**: How did I miss making a Life the Universe and Everything reference yesterday? Don't feel like I am retaining much on the React stuff and having to bind this all the time is broken and dumb. Trying to get through all the lessons so I can work on the projects, I think the projects count a lot more.
+
+**Links to work**:
+[github.com](https://github.com/seggiepants/rosetta/tree/master/SmileBasic/mugwump_2d/Switch)
+
 ### Day N: Month Day, 2020
 
 **Today's Progress**: Put stuff here, copy/paste this for new days..
