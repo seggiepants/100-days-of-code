@@ -410,6 +410,16 @@ After that I got up to 15% in javascript datastructures.
 **Links to work**:
 [github.com](https://github.com/seggiepants/rosetta/tree/master/SmileBasic/mugwump_2d/Switch)
 
+
+### Day 44: February 18, 2020
+
+**Today's Progress**: I finished up the React section even though I went a bit over on time.
+
+**Thoughts**: Hope I remember this stuff. Tomorrow I start on Redux I suppose.
+
+**Links to work**:
+(none)
+
 ### Day N: Month Day, 2020
 
 **Today's Progress**: Put stuff here, copy/paste this for new days..
