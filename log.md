@@ -420,6 +420,16 @@ After that I got up to 15% in javascript datastructures.
 **Links to work**:
 (none)
 
+
+### Day 45: February 19, 2020
+
+**Today's Progress**: I finished up the Redux section, shoud do the React + Redux section tomorrow.
+
+**Thoughts**: I was forgetting stuff before the end of the chapter, the projects are going to be hard.
+
+**Links to work**:
+(none)
+
 ### Day N: Month Day, 2020
 
 **Today's Progress**: Put stuff here, copy/paste this for new days..
