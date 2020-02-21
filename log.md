@@ -390,7 +390,6 @@ After that I got up to 15% in javascript datastructures.
 **Links to work**:
 [exercism.io](https://github.com/seggiepants/Exercism)
 
-
 ### Day 42: February 16, 2020
 
 **Today's Progress**: Spent too much time on things today. I ported my Mugwump_2D program from Fuze4 (Nintendo Switch) to SmileBasic (3DS). That took a lot longer than I expected. Guess I am going to make a copy for everything eventually. Want to make Java and/or Kotlin into an android app.
@@ -399,7 +398,6 @@ After that I got up to 15% in javascript datastructures.
 
 **Links to work**:
 [github.com](https://github.com/seggiepants/rosetta/tree/master/SmileBasic/mugwump_2d/3DS)
-
 
 ### Day 43: February 17, 2020
 
@@ -410,7 +408,6 @@ After that I got up to 15% in javascript datastructures.
 **Links to work**:
 [github.com](https://github.com/seggiepants/rosetta/tree/master/SmileBasic/mugwump_2d/Switch)
 
-
 ### Day 44: February 18, 2020
 
 **Today's Progress**: I finished up the React section even though I went a bit over on time.
@@ -420,12 +417,20 @@ After that I got up to 15% in javascript datastructures.
 **Links to work**:
 (none)
 
-
 ### Day 45: February 19, 2020
 
 **Today's Progress**: I finished up the Redux section, shoud do the React + Redux section tomorrow.
 
 **Thoughts**: I was forgetting stuff before the end of the chapter, the projects are going to be hard.
+
+**Links to work**:
+(none)
+
+### Day 46: February 20, 2020
+
+**Today's Progress**: I completed the section on React and Redux, tomorrow I can start on the projects. I don't feel like I am actually ready for it.
+
+**Thoughts**: Man this log is getting stupidly long.
 
 **Links to work**:
 (none)
