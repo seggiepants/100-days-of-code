@@ -435,12 +435,20 @@ After that I got up to 15% in javascript datastructures.
 **Links to work**:
 (none)
 
-
 ### Day 47: February 21, 2020
 
 **Today's Progress**: Started work on the Random Quote Machine. Probably spent too long mining Red Dwarf quotes.
 
 **Thoughts**: Got both less and more done than expected. Strange.
+
+**Links to work**:
+[github.com](https://github.com/seggiepants/freecodecamp/tree/master/front%20end%20libraries/random-quote-machine)
+
+### Day 48: February 22, 2020
+
+**Today's Progress**: It isn't pretty, but the quote machine is passing all of the tests now. One small problem with your bind syntax and you are chasing your own tail for quite a long time, uggg.
+
+**Thoughts**: I did steal the twitter intent link off their sample solution, but I made it work my own way. Was surprised the sample solution didn't use ReactJS. I also had to hack it up so you have a different author each time, otherwise I get a failed test.
 
 **Links to work**:
 [github.com](https://github.com/seggiepants/freecodecamp/tree/master/front%20end%20libraries/random-quote-machine)
