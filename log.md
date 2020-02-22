@@ -435,6 +435,16 @@ After that I got up to 15% in javascript datastructures.
 **Links to work**:
 (none)
 
+
+### Day 47: February 21, 2020
+
+**Today's Progress**: Started work on the Random Quote Machine. Probably spent too long mining Red Dwarf quotes.
+
+**Thoughts**: Got both less and more done than expected. Strange.
+
+**Links to work**:
+[github.com](https://github.com/seggiepants/freecodecamp/tree/master/front%20end%20libraries/random-quote-machine)
+
 ### Day N: Month Day, 2020
 
 **Today's Progress**: Put stuff here, copy/paste this for new days..
