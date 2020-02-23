@@ -453,6 +453,15 @@ After that I got up to 15% in javascript datastructures.
 **Links to work**:
 [github.com](https://github.com/seggiepants/freecodecamp/tree/master/front%20end%20libraries/random-quote-machine)
 
+### Day 49: February 23, 2020
+
+**Today's Progress**: Spent hours making red dwarf character svg files to show who it talking then put them in the code. Still lots of css work to do. I should probably use bootstrap shouldn't I? 
+
+**Thoughts**: Tomorrow is the big half way point.
+
+**Links to work**:
+[github.com](https://github.com/seggiepants/freecodecamp/tree/master/front%20end%20libraries/random-quote-machine)
+
 ### Day N: Month Day, 2020
 
 **Today's Progress**: Put stuff here, copy/paste this for new days..
@@ -470,4 +479,5 @@ After that I got up to 15% in javascript datastructures.
 5. [Responsive Web Design Project #4 - Technical Documentation Page](https://codepen.io/seggiepants/full/BayqEVv)
 6. [Responsive Web Design Project #5 - Personal Portfolio Page](https://codepen.io/seggiepants/full/MWYdJqy)
 7. [Hangman Game - Webpack example](http://segludian.com/games/hangman/)
-8. [Name](http://www.example.com)
+8. [Front End Libraries Project #1 - Random Quote Machine (https://github.com/seggiepants/freecodecamp/tree/master/front%20end%20libraries/random-quote-machine)
+9. [Name](http://www.example.com)
