@@ -479,5 +479,5 @@ After that I got up to 15% in javascript datastructures.
 5. [Responsive Web Design Project #4 - Technical Documentation Page](https://codepen.io/seggiepants/full/BayqEVv)
 6. [Responsive Web Design Project #5 - Personal Portfolio Page](https://codepen.io/seggiepants/full/MWYdJqy)
 7. [Hangman Game - Webpack example](http://segludian.com/games/hangman/)
-8. [Front End Libraries Project #1 - Random Quote Machine] (https://github.com/seggiepants/freecodecamp/tree/master/front%20end%20libraries/random-quote-machine)
+8. [Front End Libraries Project #1 - Random Quote Machine](https://github.com/seggiepants/freecodecamp/tree/master/front%20end%20libraries/random-quote-machine)
 9. [Name](http://www.example.com)
