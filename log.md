@@ -462,6 +462,15 @@ After that I got up to 15% in javascript datastructures.
 **Links to work**:
 [github.com](https://github.com/seggiepants/freecodecamp/tree/master/front%20end%20libraries/random-quote-machine)
 
+### Day 50: February 24, 2020
+
+**Today's Progress**: Added bootstrap but things still won't line up as I like. Turned the quote box into a speech bubble with some css theft.
+
+**Thoughts**: The big half way point.
+
+**Links to work**:
+[github.com](https://github.com/seggiepants/freecodecamp/tree/master/front%20end%20libraries/random-quote-machine)
+
 ### Day N: Month Day, 2020
 
 **Today's Progress**: Put stuff here, copy/paste this for new days..
