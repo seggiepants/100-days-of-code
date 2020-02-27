@@ -480,6 +480,17 @@ After that I got up to 15% in javascript datastructures.
 **Links to work**:
 [github.com](https://github.com/seggiepants/freecodecamp/tree/master/front%20end%20libraries/random-quote-machine)
 
+
+### Day 52: February 26, 2020
+
+**Today's Progress**: I got things working on codepen.io. I had to watch videos on how to enable react but it still didn't work right. Eventually banging my head against the wall got something moving. Specifically I needed to copy some code from index.js, get rid of the import react statement and export app statements, then things started to move. After that it took a bit to figure out that codepen.io won't show svg images or at least not ones from github, but maybe I was linking wrong. So back to inkscape, export everything to .png then link in that. Some extra search/replace to change folders and file extensions and suddenly things work. I am now 1 of 5 projects complete. Next is the markdown previewer.
+
+**Thoughts**: CodePen kind of stinks, why can't I have multiple javascript/html/css files? I guess it is only meant for small demos, but still.
+
+**Links to work**:
+[github.com](https://github.com/seggiepants/freecodecamp/tree/master/front%20end%20libraries/random-quote-machine)
+[codepen.io](https://codepen.io/seggiepants/full/QWbpppV)
+
 ### Day N: Month Day, 2020
 
 **Today's Progress**: Put stuff here, copy/paste this for new days..
@@ -497,5 +508,5 @@ After that I got up to 15% in javascript datastructures.
 5. [Responsive Web Design Project #4 - Technical Documentation Page](https://codepen.io/seggiepants/full/BayqEVv)
 6. [Responsive Web Design Project #5 - Personal Portfolio Page](https://codepen.io/seggiepants/full/MWYdJqy)
 7. [Hangman Game - Webpack example](http://segludian.com/games/hangman/)
-8. [Front End Libraries Project #1 - Random Quote Machine](https://github.com/seggiepants/freecodecamp/tree/master/front%20end%20libraries/random-quote-machine)
+8. [Front End Libraries Project #1 - Random Quote Machine](https://codepen.io/seggiepants/full/QWbpppV)
 9. [Name](http://www.example.com)
