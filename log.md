@@ -491,6 +491,15 @@ After that I got up to 15% in javascript datastructures.
 [github.com](https://github.com/seggiepants/freecodecamp/tree/master/front%20end%20libraries/random-quote-machine)
 [codepen.io](https://codepen.io/seggiepants/full/QWbpppV)
 
+### Day 53: February 27, 2020
+
+**Today's Progress**: Working on the markdown previewer, it is going well but I can't seem to get rid of some sizing errors. I want the default text to load from a fetch call too.
+
+**Thoughts**: Adding a bunch of 3rd party components makes things easy.
+
+**Links to work**:
+[github.com](https://github.com/seggiepants/freecodecamp/tree/master/front%20end%20libraries/markdown-previewer)
+
 ### Day N: Month Day, 2020
 
 **Today's Progress**: Put stuff here, copy/paste this for new days..
