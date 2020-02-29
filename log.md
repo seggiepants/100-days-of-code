@@ -510,6 +510,17 @@ After that I got up to 15% in javascript datastructures.
 **Links to work**:
 [github.com](https://github.com/seggiepants/freecodecamp/tree/master/front%20end%20libraries/markdown-previewer)
 
+
+### Day 55: February 29, 2020
+
+**Today's Progress**: Got things largely how I want them working locally with redux and what not, but now it won't work on codepen.io. I even tried ripping out the react/redux part (react-redux didn't want to behave) to no avail. Now I just get a blank screen. Can't even just strip it down to hello world. May start the next project tomorrow I am tired of banging my head against the wall on this one.
+
+**Thoughts**: It is a rare leap day!
+
+**Links to work**:
+[github.com](https://github.com/seggiepants/freecodecamp/tree/master/front%20end%20libraries/markdown-previewer)
+[codepen.io](https://codepen.io/seggiepants/full/mdJwEXY)
+
 ### Day N: Month Day, 2020
 
 **Today's Progress**: Put stuff here, copy/paste this for new days..
