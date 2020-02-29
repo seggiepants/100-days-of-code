@@ -500,6 +500,16 @@ After that I got up to 15% in javascript datastructures.
 **Links to work**:
 [github.com](https://github.com/seggiepants/freecodecamp/tree/master/front%20end%20libraries/markdown-previewer)
 
+
+### Day 54: February 28, 2020
+
+**Today's Progress**: Tried to add a title but failed getting things to size properly, eventually gave up and took it out. Blaming it on the splitter library but I may just not be using it right. Tried to add redux and broke things, I guess I will fix it tomorrow.
+
+**Thoughts**: Why, why did I decide to add redux?
+
+**Links to work**:
+[github.com](https://github.com/seggiepants/freecodecamp/tree/master/front%20end%20libraries/markdown-previewer)
+
 ### Day N: Month Day, 2020
 
 **Today's Progress**: Put stuff here, copy/paste this for new days..
