@@ -540,6 +540,16 @@ After that I got up to 15% in javascript datastructures.
 **Links to work**:
 [github.com](https://github.com/seggiepants/freecodecamp/tree/master/front%20end%20libraries/drum-machine)
 
+### Day 58: March 3, 2020
+
+**Today's Progress**: Refactor some of my horrible button code from hard wired to data driven, much nicer. Also got things as they currently are running on codepen.io.
+
+**Thoughts**: Really shouldn't do this before work.
+
+**Links to work**:
+[github.com](https://github.com/seggiepants/freecodecamp/tree/master/front%20end%20libraries/drum-machine)
+[codepen.io](https://codepen.io/seggiepants/pen/yLNoPKJ)
+
 ### Day N: Month Day, 2020
 
 **Today's Progress**: Put stuff here, copy/paste this for new days..
@@ -559,4 +569,5 @@ After that I got up to 15% in javascript datastructures.
 7. [Hangman Game - Webpack example](http://segludian.com/games/hangman/)
 8. [Front End Libraries Project #1 - Random Quote Machine](https://codepen.io/seggiepants/full/QWbpppV)
 9. [Front End Libraries Project #2 - Markdown Previewer](https://codepen.io/seggiepants/full/mdJwEXY)
+10. [Front End Libraries Project #3 - Drum Machine](https://codepen.io/seggiepants/pen/yLNoPKJ)
 9. [Name](http://www.example.com)
