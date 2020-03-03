@@ -531,6 +531,15 @@ After that I got up to 15% in javascript datastructures.
 [github.com](https://github.com/seggiepants/freecodecamp/tree/master/front%20end%20libraries/markdown-previewer)
 [codepen.io](https://codepen.io/seggiepants/full/mdJwEXY)
 
+### Day 57: March 2, 2020
+
+**Today's Progress**: I started on the drum machine and while I went over a bit, I did manage to get it passing the tests. I can start making it pretty tomorrow. I should probably get it working on codepen.io before I get too far this time too.
+
+**Thoughts**: Even using bfxr and audacity, it took quite a while to make the audio.
+
+**Links to work**:
+[github.com](https://github.com/seggiepants/freecodecamp/tree/master/front%20end%20libraries/drum-machine)
+
 ### Day N: Month Day, 2020
 
 **Today's Progress**: Put stuff here, copy/paste this for new days..
