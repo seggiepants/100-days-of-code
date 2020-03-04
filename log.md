@@ -550,6 +550,15 @@ After that I got up to 15% in javascript datastructures.
 [github.com](https://github.com/seggiepants/freecodecamp/tree/master/front%20end%20libraries/drum-machine)
 [codepen.io](https://codepen.io/seggiepants/pen/yLNoPKJ)
 
+### Day 59: March 4, 2020
+
+**Today's Progress**: Finished up the drum machine after making it pretty with Bootstrap then submitted it. After that I started work on the calculator, not passing many tests yet.
+
+**Thoughts**: Kind of sneaky started before midnight finished after 1 am. This is going to hurt in the morning.
+
+**Links to work**:
+[github.com](https://github.com/seggiepants/freecodecamp/tree/master/front%20end%20libraries/calculator)
+
 ### Day N: Month Day, 2020
 
 **Today's Progress**: Put stuff here, copy/paste this for new days..
