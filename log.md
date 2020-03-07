@@ -568,6 +568,15 @@ After that I got up to 15% in javascript datastructures.
 **Links to work**:
 [github.com](https://github.com/seggiepants/freecodecamp/tree/master/front%20end%20libraries/calculator)
 
+### Day 61: March 6, 2020
+
+**Today's Progress**: Got the calculator almost working, but I still have two broken test cases.
+
+**Thoughts**: I should probably clean up that ugly code.
+
+**Links to work**:
+[github.com](https://github.com/seggiepants/freecodecamp/tree/master/front%20end%20libraries/calculator)
+
 ### Day N: Month Day, 2020
 
 **Today's Progress**: Put stuff here, copy/paste this for new days..
