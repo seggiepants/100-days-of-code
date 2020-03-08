@@ -584,6 +584,15 @@ After that I got up to 15% in javascript datastructures.
 1. [github.com](https://github.com/seggiepants/freecodecamp/tree/master/front%20end%20libraries/calculator)
 2. [codepen.io](https://codepen.io/seggiepants/full/OJVOBpR)
 
+### Day 63: March 8, 2020
+
+**Today's Progress**: Started on the pomodoro clock.
+
+**Thoughts**: I am not sure that some of those tests are actually functioning right. I will re-evaluate once the timer is in. 16/29 passing however, pretty good for not having a working timer yet.
+
+**Links to work**:
+1. [github.com](https://github.com/seggiepants/freecodecamp/tree/master/front%20end%20libraries/pomodoro-clock)
+
 ### Day N: Month Day, 2020
 
 **Today's Progress**: Put stuff here, copy/paste this for new days..
