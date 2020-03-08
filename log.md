@@ -574,8 +574,15 @@ After that I got up to 15% in javascript datastructures.
 
 **Thoughts**: I should probably clean up that ugly code.
 
+### Day 62: March 7, 2020
+
+**Today's Progress**: Got the calculator finished and uploaded to codepen.io.
+
+**Thoughts**: Guess I need to start on the Pomodoro clock now. After that it is second certification complete..
+
 **Links to work**:
 [github.com](https://github.com/seggiepants/freecodecamp/tree/master/front%20end%20libraries/calculator)
+[codepen.io](https://codepen.io/seggiepants/full/OJVOBpR)
 
 ### Day N: Month Day, 2020
 
@@ -597,4 +604,5 @@ After that I got up to 15% in javascript datastructures.
 8. [Front End Libraries Project #1 - Random Quote Machine](https://codepen.io/seggiepants/full/QWbpppV)
 9. [Front End Libraries Project #2 - Markdown Previewer](https://codepen.io/seggiepants/full/mdJwEXY)
 10. [Front End Libraries Project #3 - Drum Machine](https://codepen.io/seggiepants/pen/yLNoPKJ)
-9. [Name](http://www.example.com)
+11. [Front End Libraries Project #4 - Calculator](https://codepen.io/seggiepants/full/OJVOBpR)
+12. [Name](http://www.example.com)
