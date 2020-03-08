@@ -265,7 +265,6 @@ After that I got up to 15% in javascript datastructures.
 3. [Personal Portfolio Page codepen.io](https://codepen.io/seggiepants/full/MWYdJqy)
 4. [Personal Portfolio Page github.com](https://github.com/seggiepants/freecodecamp/tree/master/responsive%20web%20design/personal%20portfolio)
 
-
 ### Day 28: February 2, 2020
 
 **Today's Progress**: Still super sick from the flu but I managed to do javascript datastructures on [freecodecamp](https://www.freecodecamp.org/learn).
@@ -274,7 +273,6 @@ After that I got up to 15% in javascript datastructures.
 
 **Links to work**: (none for today)
 
-
 ### Day 29: February 3, 2020
 
 **Today's Progress**: It snowed a bunch and I am still sick so I took another day off. (Hate needing to do that).  Anyway I got through Basic Algorithm Scripting on [freecodecamp](https://www.freecodecamp.org/learn). Once I feel better I want to get back to more code. 71 lessons left in javascript.
@@ -282,7 +280,6 @@ After that I got up to 15% in javascript datastructures.
 **Thoughts**: Could have gone a bit faster if I didn't keep trying to use higher order array operations (but I don't regret trying to get a hang of them). Still soooooooo tired. Also a two hour call when you are mid way through is ... unfortunate.
 
 **Links to work**: (none for today)
-
 
 ### Day 30: February 4, 2020
 
@@ -388,7 +385,7 @@ After that I got up to 15% in javascript datastructures.
 **Thoughts**: Sure are a lot of spammy things you have to allow to get the thing working, including one identified as a webbug :(
 
 **Links to work**:
-[exercism.io](https://github.com/seggiepants/Exercism)
+1. [exercism.io](https://github.com/seggiepants/Exercism)
 
 ### Day 42: February 16, 2020
 
@@ -397,7 +394,7 @@ After that I got up to 15% in javascript datastructures.
 **Thoughts**: The smile basic api is really neat, didn't have to scream over my code for an hour to get a copy, huzzah.
 
 **Links to work**:
-[github.com](https://github.com/seggiepants/rosetta/tree/master/SmileBasic/mugwump_2d/3DS)
+1. [github.com](https://github.com/seggiepants/rosetta/tree/master/SmileBasic/mugwump_2d/3DS)
 
 ### Day 43: February 17, 2020
 
@@ -406,7 +403,7 @@ After that I got up to 15% in javascript datastructures.
 **Thoughts**: How did I miss making a Life the Universe and Everything reference yesterday? Don't feel like I am retaining much on the React stuff and having to bind this all the time is broken and dumb. Trying to get through all the lessons so I can work on the projects, I think the projects count a lot more.
 
 **Links to work**:
-[github.com](https://github.com/seggiepants/rosetta/tree/master/SmileBasic/mugwump_2d/Switch)
+1. [github.com](https://github.com/seggiepants/rosetta/tree/master/SmileBasic/mugwump_2d/Switch)
 
 ### Day 44: February 18, 2020
 
@@ -442,7 +439,7 @@ After that I got up to 15% in javascript datastructures.
 **Thoughts**: Got both less and more done than expected. Strange.
 
 **Links to work**:
-[github.com](https://github.com/seggiepants/freecodecamp/tree/master/front%20end%20libraries/random-quote-machine)
+1. [github.com](https://github.com/seggiepants/freecodecamp/tree/master/front%20end%20libraries/random-quote-machine)
 
 ### Day 48: February 22, 2020
 
@@ -451,7 +448,7 @@ After that I got up to 15% in javascript datastructures.
 **Thoughts**: I did steal the twitter intent link off their sample solution, but I made it work my own way. Was surprised the sample solution didn't use ReactJS. I also had to hack it up so you have a different author each time, otherwise I get a failed test.
 
 **Links to work**:
-[github.com](https://github.com/seggiepants/freecodecamp/tree/master/front%20end%20libraries/random-quote-machine)
+1. [github.com](https://github.com/seggiepants/freecodecamp/tree/master/front%20end%20libraries/random-quote-machine)
 
 ### Day 49: February 23, 2020
 
@@ -460,7 +457,7 @@ After that I got up to 15% in javascript datastructures.
 **Thoughts**: Tomorrow is the big half way point.
 
 **Links to work**:
-[github.com](https://github.com/seggiepants/freecodecamp/tree/master/front%20end%20libraries/random-quote-machine)
+1. [github.com](https://github.com/seggiepants/freecodecamp/tree/master/front%20end%20libraries/random-quote-machine)
 
 ### Day 50: February 24, 2020
 
@@ -469,7 +466,7 @@ After that I got up to 15% in javascript datastructures.
 **Thoughts**: The big half way point.
 
 **Links to work**:
-[github.com](https://github.com/seggiepants/freecodecamp/tree/master/front%20end%20libraries/random-quote-machine)
+1. [github.com](https://github.com/seggiepants/freecodecamp/tree/master/front%20end%20libraries/random-quote-machine)
 
 ### Day 51: February 25, 2020
 
@@ -478,7 +475,7 @@ After that I got up to 15% in javascript datastructures.
 **Thoughts**: The long slog to the finish begins here.
 
 **Links to work**:
-[github.com](https://github.com/seggiepants/freecodecamp/tree/master/front%20end%20libraries/random-quote-machine)
+1. [github.com](https://github.com/seggiepants/freecodecamp/tree/master/front%20end%20libraries/random-quote-machine)
 
 
 ### Day 52: February 26, 2020
@@ -488,8 +485,8 @@ After that I got up to 15% in javascript datastructures.
 **Thoughts**: CodePen kind of stinks, why can't I have multiple javascript/html/css files? I guess it is only meant for small demos, but still.
 
 **Links to work**:
-[github.com](https://github.com/seggiepants/freecodecamp/tree/master/front%20end%20libraries/random-quote-machine)
-[codepen.io](https://codepen.io/seggiepants/full/QWbpppV)
+1. [github.com](https://github.com/seggiepants/freecodecamp/tree/master/front%20end%20libraries/random-quote-machine)
+2. [codepen.io](https://codepen.io/seggiepants/full/QWbpppV)
 
 ### Day 53: February 27, 2020
 
@@ -498,7 +495,7 @@ After that I got up to 15% in javascript datastructures.
 **Thoughts**: Adding a bunch of 3rd party components makes things easy.
 
 **Links to work**:
-[github.com](https://github.com/seggiepants/freecodecamp/tree/master/front%20end%20libraries/markdown-previewer)
+1. [github.com](https://github.com/seggiepants/freecodecamp/tree/master/front%20end%20libraries/markdown-previewer)
 
 
 ### Day 54: February 28, 2020
@@ -508,7 +505,7 @@ After that I got up to 15% in javascript datastructures.
 **Thoughts**: Why, why did I decide to add redux?
 
 **Links to work**:
-[github.com](https://github.com/seggiepants/freecodecamp/tree/master/front%20end%20libraries/markdown-previewer)
+1. [github.com](https://github.com/seggiepants/freecodecamp/tree/master/front%20end%20libraries/markdown-previewer)
 
 
 ### Day 55: February 29, 2020
@@ -518,8 +515,8 @@ After that I got up to 15% in javascript datastructures.
 **Thoughts**: It is a rare leap day!
 
 **Links to work**:
-[github.com](https://github.com/seggiepants/freecodecamp/tree/master/front%20end%20libraries/markdown-previewer)
-[codepen.io](https://codepen.io/seggiepants/full/mdJwEXY)
+1. [github.com](https://github.com/seggiepants/freecodecamp/tree/master/front%20end%20libraries/markdown-previewer)
+2. [codepen.io](https://codepen.io/seggiepants/full/mdJwEXY)
 
 ### Day 56: March 1, 2020
 
@@ -528,8 +525,8 @@ After that I got up to 15% in javascript datastructures.
 **Thoughts**: Was hard to get myself to edit stuff today.
 
 **Links to work**:
-[github.com](https://github.com/seggiepants/freecodecamp/tree/master/front%20end%20libraries/markdown-previewer)
-[codepen.io](https://codepen.io/seggiepants/full/mdJwEXY)
+1. [github.com](https://github.com/seggiepants/freecodecamp/tree/master/front%20end%20libraries/markdown-previewer)
+2. [codepen.io](https://codepen.io/seggiepants/full/mdJwEXY)
 
 ### Day 57: March 2, 2020
 
@@ -538,7 +535,7 @@ After that I got up to 15% in javascript datastructures.
 **Thoughts**: Even using bfxr and audacity, it took quite a while to make the audio.
 
 **Links to work**:
-[github.com](https://github.com/seggiepants/freecodecamp/tree/master/front%20end%20libraries/drum-machine)
+1. [github.com](https://github.com/seggiepants/freecodecamp/tree/master/front%20end%20libraries/drum-machine)
 
 ### Day 58: March 3, 2020
 
@@ -547,8 +544,8 @@ After that I got up to 15% in javascript datastructures.
 **Thoughts**: Really shouldn't do this before work.
 
 **Links to work**:
-[github.com](https://github.com/seggiepants/freecodecamp/tree/master/front%20end%20libraries/drum-machine)
-[codepen.io](https://codepen.io/seggiepants/pen/yLNoPKJ)
+1. [github.com](https://github.com/seggiepants/freecodecamp/tree/master/front%20end%20libraries/drum-machine)
+2. [codepen.io](https://codepen.io/seggiepants/pen/yLNoPKJ)
 
 ### Day 59: March 4, 2020
 
@@ -557,7 +554,7 @@ After that I got up to 15% in javascript datastructures.
 **Thoughts**: Kind of sneaky started before midnight finished after 1 am. This is going to hurt in the morning.
 
 **Links to work**:
-[github.com](https://github.com/seggiepants/freecodecamp/tree/master/front%20end%20libraries/calculator)
+1. [github.com](https://github.com/seggiepants/freecodecamp/tree/master/front%20end%20libraries/calculator)
 
 ### Day 60: March 5, 2020
 
@@ -566,13 +563,16 @@ After that I got up to 15% in javascript datastructures.
 **Thoughts**: Got a prototype working in python at least.
 
 **Links to work**:
-[github.com](https://github.com/seggiepants/freecodecamp/tree/master/front%20end%20libraries/calculator)
+1. [github.com](https://github.com/seggiepants/freecodecamp/tree/master/front%20end%20libraries/calculator)
 
 ### Day 61: March 6, 2020
 
 **Today's Progress**: Got the calculator almost working, but I still have two broken test cases.
 
 **Thoughts**: I should probably clean up that ugly code.
+
+**Links to work**:
+1. [github.com](https://github.com/seggiepants/freecodecamp/tree/master/front%20end%20libraries/calculator)
 
 ### Day 62: March 7, 2020
 
@@ -581,8 +581,8 @@ After that I got up to 15% in javascript datastructures.
 **Thoughts**: Guess I need to start on the Pomodoro clock now. After that it is second certification complete..
 
 **Links to work**:
-[github.com](https://github.com/seggiepants/freecodecamp/tree/master/front%20end%20libraries/calculator)
-[codepen.io](https://codepen.io/seggiepants/full/OJVOBpR)
+1. [github.com](https://github.com/seggiepants/freecodecamp/tree/master/front%20end%20libraries/calculator)
+2. [codepen.io](https://codepen.io/seggiepants/full/OJVOBpR)
 
 ### Day N: Month Day, 2020
 
@@ -590,7 +590,8 @@ After that I got up to 15% in javascript datastructures.
 
 **Thoughts**: Today's deep thought(s).
 
-**Link(s) to work**: [Name](http://www.example.com)
+**Link(s) to work**: 
+1. [Name](http://www.example.com)
 
 
 **Links to projects worked on during 100 days of code**
