@@ -593,6 +593,15 @@ After that I got up to 15% in javascript datastructures.
 **Links to work**:
 1. [github.com](https://github.com/seggiepants/freecodecamp/tree/master/front%20end%20libraries/pomodoro-clock)
 
+### Day 64: March 9, 2020
+
+**Today's Progress**: Tried to make the clock pretty, put in the audio and got it largely functional. Internet was out so I couldn't test it.
+
+**Thoughts**: Stupid internet, I need to cancel it.
+
+**Links to work**:
+1. [github.com](https://github.com/seggiepants/freecodecamp/tree/master/front%20end%20libraries/pomodoro-clock)
+
 ### Day N: Month Day, 2020
 
 **Today's Progress**: Put stuff here, copy/paste this for new days..
