@@ -602,6 +602,18 @@ After that I got up to 15% in javascript datastructures.
 **Links to work**:
 1. [github.com](https://github.com/seggiepants/freecodecamp/tree/master/front%20end%20libraries/pomodoro-clock)
 
+### Day 65: March 10, 2020
+
+**Today's Progress**: Ok, I got the last of the bugs out (the display should have time left initialized with session length and session/break length should be updated when you click the buttons before starting the timer). Then I ported it to codepen.io.
+
+That lets me ta-da complete the front end certification!! Huzzah!
+
+**Thoughts**: Not really interested in the D3 stuff but I guess that is next.
+
+**Links to work**:
+1. [github.com](https://github.com/seggiepants/freecodecamp/tree/master/front%20end%20libraries/pomodoro-clock)
+2. [codepen.io](https://codepen.io/seggiepants/full/poJayZW)
+
 ### Day N: Month Day, 2020
 
 **Today's Progress**: Put stuff here, copy/paste this for new days..
@@ -624,4 +636,5 @@ After that I got up to 15% in javascript datastructures.
 9. [Front End Libraries Project #2 - Markdown Previewer](https://codepen.io/seggiepants/full/mdJwEXY)
 10. [Front End Libraries Project #3 - Drum Machine](https://codepen.io/seggiepants/pen/yLNoPKJ)
 11. [Front End Libraries Project #4 - Calculator](https://codepen.io/seggiepants/full/OJVOBpR)
-12. [Name](http://www.example.com)
+12. [Front End Libraries Project #5 - Pomodoro Clock](https://codepen.io/seggiepants/full/poJayZW)
+13. [Name](http://www.example.com)
