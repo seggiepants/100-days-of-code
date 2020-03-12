@@ -614,6 +614,15 @@ That lets me ta-da complete the front end certification!! Huzzah!
 1. [github.com](https://github.com/seggiepants/freecodecamp/tree/master/front%20end%20libraries/pomodoro-clock)
 2. [codepen.io](https://codepen.io/seggiepants/full/poJayZW)
 
+### Day 66: March 11, 2020
+
+**Today's Progress**: Managed to get throught the lessons and started on the bar chart.
+
+**Thoughts**: Should have paid more attention to the D3 stuff. Tomorrow I pass the two thirds mark.
+
+**Links to work**:
+1. [github.com](https://github.com/seggiepants/freecodecamp/tree/master/data%20visualization/bar%20chart)
+
 ### Day N: Month Day, 2020
 
 **Today's Progress**: Put stuff here, copy/paste this for new days..
