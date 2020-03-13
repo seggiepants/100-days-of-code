@@ -623,6 +623,15 @@ That lets me ta-da complete the front end certification!! Huzzah!
 **Links to work**:
 1. [github.com](https://github.com/seggiepants/freecodecamp/tree/master/data%20visualization/bar%20chart)
 
+### Day 67: March 12, 2020
+
+**Today's Progress**: Bar chart is starting to look like a bar chart but is still not very close even if it passes 10 of 14 tests.
+
+**Thoughts**: I just past the two thirds mark. Gotta remember to make a Pi day comment soon.
+
+**Links to work**:
+1. [github.com](https://github.com/seggiepants/freecodecamp/tree/master/data%20visualization/bar%20chart)
+
 ### Day N: Month Day, 2020
 
 **Today's Progress**: Put stuff here, copy/paste this for new days..
