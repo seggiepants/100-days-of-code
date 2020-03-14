@@ -629,6 +629,12 @@ That lets me ta-da complete the front end certification!! Huzzah!
 
 **Thoughts**: I just past the two thirds mark. Gotta remember to make a Pi day comment soon.
 
+### Day 68: March 12, 2020
+
+**Today's Progress**: Surprisingly little progress on the Bar chart starting to think some of the test are wrong or at least not explained in the lessons.
+
+**Thoughts**: Looking at other peoples solutions, I don't see why my x-axis is flagged as wrong. Althought it does appear to maybe be off by a month. Not getting callbacks like I saw in one solution.
+
 **Links to work**:
 1. [github.com](https://github.com/seggiepants/freecodecamp/tree/master/data%20visualization/bar%20chart)
 
