@@ -645,7 +645,17 @@ That lets me ta-da complete the front end certification!! Huzzah!
 **Thoughts**: Happy PI day!
 
 **Links to work**:
-1. [github.com](https://github.com/seggiepants/freecodecamp/tree/master/data%20visualizatio
+1. [github.com](https://github.com/seggiepants/freecodecamp/tree/master/data%20visualization/bar%20chart)
+2. [codepen.io](https://codepen.io/seggiepants/full/GRJdRWp)
+
+### Day 70: March 15, 2020
+
+**Today's Progress**: The scatter plot is getting close to done. My legend, isn't very good, I need to figure out how to do that better, but at least it is passing all the tests.
+
+**Thoughts**: Copy paste from the previous example is productive.
+
+**Links to work**:
+1. [github.com](https://github.com/seggiepants/freecodecamp/tree/master/data%20visualization/scatter%20plot)
 2. [codepen.io](https://codepen.io/seggiepants/full/GRJdRWp)
 
 ### Day N: Month Day, 2020
