@@ -629,7 +629,7 @@ That lets me ta-da complete the front end certification!! Huzzah!
 
 **Thoughts**: I just past the two thirds mark. Gotta remember to make a Pi day comment soon.
 
-### Day 68: March 12, 2020
+### Day 68: March 13, 2020
 
 **Today's Progress**: Surprisingly little progress on the Bar chart starting to think some of the test are wrong or at least not explained in the lessons.
 
@@ -637,6 +637,16 @@ That lets me ta-da complete the front end certification!! Huzzah!
 
 **Links to work**:
 1. [github.com](https://github.com/seggiepants/freecodecamp/tree/master/data%20visualization/bar%20chart)
+
+### Day 69: March 14, 2020
+
+**Today's Progress**: Well I got the moving div being shown and hidden. Turns out I needed to move my on mouseover/out functions up a bit. Got the time frames matching by changing the scale to year. Yeah that's a bit dodgy I agree, but I am tired of this and am moving on. Time to start up the next chart.
+
+**Thoughts**: Happy PI day!
+
+**Links to work**:
+1. [github.com](https://github.com/seggiepants/freecodecamp/tree/master/data%20visualizatio
+2. [codepen.io](https://codepen.io/seggiepants/full/GRJdRWp)
 
 ### Day N: Month Day, 2020
 
@@ -661,4 +671,5 @@ That lets me ta-da complete the front end certification!! Huzzah!
 10. [Front End Libraries Project #3 - Drum Machine](https://codepen.io/seggiepants/pen/yLNoPKJ)
 11. [Front End Libraries Project #4 - Calculator](https://codepen.io/seggiepants/full/OJVOBpR)
 12. [Front End Libraries Project #5 - Pomodoro Clock](https://codepen.io/seggiepants/full/poJayZW)
+13. [Data Visualization Project #1 - Bar Chart](https://codepen.io/seggiepants/full/GRJdRWp)
 13. [Name](http://www.example.com)
