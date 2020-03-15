@@ -656,7 +656,6 @@ That lets me ta-da complete the front end certification!! Huzzah!
 
 **Links to work**:
 1. [github.com](https://github.com/seggiepants/freecodecamp/tree/master/data%20visualization/scatter%20plot)
-2. [codepen.io](https://codepen.io/seggiepants/full/GRJdRWp)
 
 ### Day N: Month Day, 2020
 
