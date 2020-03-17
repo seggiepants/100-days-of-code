@@ -657,6 +657,16 @@ That lets me ta-da complete the front end certification!! Huzzah!
 **Links to work**:
 1. [github.com](https://github.com/seggiepants/freecodecamp/tree/master/data%20visualization/scatter%20plot)
 
+### Day 71: March 16, 2020
+
+**Today's Progress**: Finished up the Scatter Plot and turned it in.
+
+**Thoughts**: I thought for sure I would have gotten further, oh well.
+
+**Links to work**:
+1. [github.com](https://github.com/seggiepants/freecodecamp/tree/master/data%20visualization/scatter%20plot)
+1. [codepen.io](https://codepen.io/seggiepants/pen/GRJdebj)
+
 ### Day N: Month Day, 2020
 
 **Today's Progress**: Put stuff here, copy/paste this for new days..
@@ -681,4 +691,5 @@ That lets me ta-da complete the front end certification!! Huzzah!
 11. [Front End Libraries Project #4 - Calculator](https://codepen.io/seggiepants/full/OJVOBpR)
 12. [Front End Libraries Project #5 - Pomodoro Clock](https://codepen.io/seggiepants/full/poJayZW)
 13. [Data Visualization Project #1 - Bar Chart](https://codepen.io/seggiepants/full/GRJdRWp)
-13. [Name](http://www.example.com)
+14. [Data Visualization Project #2 - Scatter Plot](https://codepen.io/seggiepants/pen/GRJdebj)
+15. [Name](http://www.example.com)
