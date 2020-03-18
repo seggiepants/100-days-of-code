@@ -667,6 +667,15 @@ That lets me ta-da complete the front end certification!! Huzzah!
 1. [github.com](https://github.com/seggiepants/freecodecamp/tree/master/data%20visualization/scatter%20plot)
 1. [codepen.io](https://codepen.io/seggiepants/pen/GRJdebj)
 
+### Day 72: March 17, 2020
+
+**Today's Progress**: Started on the Heat map visualization.
+
+**Thoughts**: Happy St. Patricks Day
+
+**Links to work**:
+1. [github.com](https://github.com/seggiepants/freecodecamp/tree/master/data%20visualization/heat%20map)
+
 ### Day N: Month Day, 2020
 
 **Today's Progress**: Put stuff here, copy/paste this for new days..
