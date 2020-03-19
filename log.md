@@ -673,6 +673,12 @@ That lets me ta-da complete the front end certification!! Huzzah!
 
 **Thoughts**: Happy St. Patricks Day
 
+### Day 73: March 18, 2020
+
+**Today's Progress**: Tried to get the colors working right, didn't succeed.
+
+**Thoughts**: Large 5.7 earthquake today plus aftershocks, it was scary.
+
 **Links to work**:
 1. [github.com](https://github.com/seggiepants/freecodecamp/tree/master/data%20visualization/heat%20map)
 
