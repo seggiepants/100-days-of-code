@@ -707,6 +707,15 @@ That lets me ta-da complete the front end certification!! Huzzah!
 **Links to work**:
 1. [github.com](https://github.com/seggiepants/freecodecamp/tree/master/data%20visualization/choropleth%20map)
 
+### Day 77: March 22, 2020
+
+**Today's Progress**: Stole code from the sample until I could finally get a map to show up. It still won't work with projections. Just want to move on from this now. Not sure why it is so hard for me.
+
+**Thoughts**: Being interrupted and breaking the hour into two parts probably didn't help.
+
+**Links to work**:
+1. [github.com](https://github.com/seggiepants/freecodecamp/tree/master/data%20visualization/choropleth%20map)
+
 ### Day N: Month Day, 2020
 
 **Today's Progress**: Put stuff here, copy/paste this for new days..
