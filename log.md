@@ -692,12 +692,17 @@ That lets me ta-da complete the front end certification!! Huzzah!
 1. [github.com](https://github.com/seggiepants/freecodecamp/tree/master/data%20visualization/heat%20map)
 2. [codepen.io](https://codepen.io/seggiepants/full/xxGJLpo)
 
-
 ### Day 75: March 20, 2020
 
 **Today's Progress**: Started on the Choropleth Map. I got the two files loading well, the drawing is all wrong.
 
 **Thoughts**: Some instructions on what they want for the map and such sure would have been nice. Data isn't much use if you don't know how to interpret it. Hey, I hit the 3/4th mark, huzzah.
+
+### Day 76: March 21, 2020
+
+**Today's Progress**: Thinking I should use d3.geoPath but now I get nothing drawn to the screen. Think I need to research this more.
+
+**Thoughts**: Too tired to do much
 
 **Links to work**:
 1. [github.com](https://github.com/seggiepants/freecodecamp/tree/master/data%20visualization/choropleth%20map)
