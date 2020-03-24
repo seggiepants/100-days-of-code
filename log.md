@@ -716,6 +716,16 @@ That lets me ta-da complete the front end certification!! Huzzah!
 **Links to work**:
 1. [github.com](https://github.com/seggiepants/freecodecamp/tree/master/data%20visualization/choropleth%20map)
 
+### Day 78: March 22, 2020
+
+**Today's Progress**: More cut/copy/paste. Made it my own code as much as I could, but this stuff doesn't seem to work if I change things at all. I am calling it done. Finally put it up on codepen.io too.
+
+**Thoughts**: One thing I will say for the visualizations is putting them on codepen.io is effectively effortless.
+
+**Links to work**:
+1. [github.com](https://github.com/seggiepants/freecodecamp/tree/master/data%20visualization/choropleth%20map)
+2. [github.com](https://codepen.io/seggiepants/full/eYNPJPK)
+
 ### Day N: Month Day, 2020
 
 **Today's Progress**: Put stuff here, copy/paste this for new days..
@@ -742,4 +752,5 @@ That lets me ta-da complete the front end certification!! Huzzah!
 13. [Data Visualization Project #1 - Bar Chart](https://codepen.io/seggiepants/full/GRJdRWp)
 14. [Data Visualization Project #2 - Scatter Plot](https://codepen.io/seggiepants/full/GRJdebj)
 15. [Data Visualization Project #3 - Heat Map](https://codepen.io/seggiepants/full/xxGJLpo)
-16. [Name](http://www.example.com)
+16. [Data Visualization Project #4 - Choropleth Map](https://codepen.io/seggiepants/full/eYNPJPK)
+17. [Name](http://www.example.com)
