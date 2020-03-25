@@ -716,7 +716,7 @@ That lets me ta-da complete the front end certification!! Huzzah!
 **Links to work**:
 1. [github.com](https://github.com/seggiepants/freecodecamp/tree/master/data%20visualization/choropleth%20map)
 
-### Day 78: March 22, 2020
+### Day 78: March 23, 2020
 
 **Today's Progress**: More cut/copy/paste. Made it my own code as much as I could, but this stuff doesn't seem to work if I change things at all. I am calling it done. Finally put it up on codepen.io too.
 
@@ -725,6 +725,16 @@ That lets me ta-da complete the front end certification!! Huzzah!
 **Links to work**:
 1. [github.com](https://github.com/seggiepants/freecodecamp/tree/master/data%20visualization/choropleth%20map)
 2. [github.com](https://codepen.io/seggiepants/full/eYNPJPK)
+
+### Day 79: March 24, 2020
+
+**Today's Progress**: Started out on the treemap diagram. Copy pasted a bunch from [d3-graph-gallery](https://www.d3-graph-gallery.com/graph/treemap_json.html). The colors, and labels are all wrong, and I don't have a tooltip or legend yet but I think it is progressing well. Got a codepen in for this one earlier this time. 7/12 tests passing isn't bad.
+
+**Thoughts**: I think this will be a far less miserable slog compared to the cholorpleth map. Can't wait to get this section finished off.
+
+**Links to work**:
+1. [github.com](https://github.com/seggiepants/freecodecamp/tree/master/data%20visualization/treemap%20diagram)
+2. [github.com](https://codepen.io/seggiepants/pen/abORQXw)
 
 ### Day N: Month Day, 2020
 
@@ -753,4 +763,5 @@ That lets me ta-da complete the front end certification!! Huzzah!
 14. [Data Visualization Project #2 - Scatter Plot](https://codepen.io/seggiepants/full/GRJdebj)
 15. [Data Visualization Project #3 - Heat Map](https://codepen.io/seggiepants/full/xxGJLpo)
 16. [Data Visualization Project #4 - Choropleth Map](https://codepen.io/seggiepants/full/eYNPJPK)
-17. [Name](http://www.example.com)
+17. [Data Visualization Project #5 - Treemap Diagram](https://codepen.io/seggiepants/pen/abORQXw)
+18. [Name](http://www.example.com)
