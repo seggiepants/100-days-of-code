@@ -724,7 +724,7 @@ That lets me ta-da complete the front end certification!! Huzzah!
 
 **Links to work**:
 1. [github.com](https://github.com/seggiepants/freecodecamp/tree/master/data%20visualization/choropleth%20map)
-2. [github.com](https://codepen.io/seggiepants/full/eYNPJPK)
+2. [codepen.io](https://codepen.io/seggiepants/full/eYNPJPK)
 
 ### Day 79: March 24, 2020
 
@@ -734,7 +734,7 @@ That lets me ta-da complete the front end certification!! Huzzah!
 
 **Links to work**:
 1. [github.com](https://github.com/seggiepants/freecodecamp/tree/master/data%20visualization/treemap%20diagram)
-2. [github.com](https://codepen.io/seggiepants/pen/abORQXw)
+2. [codepen.io](https://codepen.io/seggiepants/pen/abORQXw)
 
 ### Day N: Month Day, 2020
 
