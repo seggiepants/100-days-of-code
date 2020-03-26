@@ -736,6 +736,16 @@ That lets me ta-da complete the front end certification!! Huzzah!
 1. [github.com](https://github.com/seggiepants/freecodecamp/tree/master/data%20visualization/treemap%20diagram)
 2. [codepen.io](https://codepen.io/seggiepants/pen/abORQXw)
 
+### Day 80: March 25, 2020
+
+**Today's Progress**: More work on the treemap diagram, still need to fix the labels, legend, and maybe add a datasource switcher.
+
+**Thoughts**: Tired, wasn't sure if I would make it or not today..
+
+**Links to work**:
+1. [github.com](https://github.com/seggiepants/freecodecamp/tree/master/data%20visualization/treemap%20diagram)
+2. [codepen.io](https://codepen.io/seggiepants/pen/abORQXw)
+
 ### Day N: Month Day, 2020
 
 **Today's Progress**: Put stuff here, copy/paste this for new days..
