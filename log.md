@@ -756,6 +756,20 @@ That lets me ta-da complete the front end certification!! Huzzah!
 1. [github.com](https://github.com/seggiepants/freecodecamp/tree/master/data%20visualization/treemap%20diagram)
 2. [codepen.io](https://codepen.io/seggiepants/pen/abORQXw)
 
+### Day 82: March 27, 2020
+
+**Today's Progress**: Not much, spent a ton of time trying to get the labels to wrap. Turns out the labels aren't actually required, I am thinking of skipping them, the tooltip should be good enough. There is no way to put all of those labels on correctly. I even tried to steal a function from the internet that should have worked  .... it didn't (although I could be using it wrong).
+
+Eventually I tried out the other data sets to see everything fail miserably. Turns out, I was concatenating numbers, not summing them up. I think my map is more correct but it looks super odd now, not much like windirstat at all now. I think the freecodecamp sample just might have the same problem, but I didn't check to make sure.
+
+Still want to add in a data-source switcher.
+
+**Thoughts**: Why am I still messing with the tree-map? Did update codepen.io this time.
+
+**Links to work**:
+1. [github.com](https://github.com/seggiepants/freecodecamp/tree/master/data%20visualization/treemap%20diagram)
+2. [codepen.io](https://codepen.io/seggiepants/pen/abORQXw)
+
 ### Day N: Month Day, 2020
 
 **Today's Progress**: Put stuff here, copy/paste this for new days..
