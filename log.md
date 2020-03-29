@@ -770,6 +770,16 @@ Still want to add in a data-source switcher.
 1. [github.com](https://github.com/seggiepants/freecodecamp/tree/master/data%20visualization/treemap%20diagram)
 2. [codepen.io](https://codepen.io/seggiepants/pen/abORQXw)
 
+### Day 83: March 28, 2020
+
+**Today's Progress**: I put in the data source switcher buttons and made the legend a little more flexible and set it to a two column layout. After that I turned it in and claimed my visualization certificate.
+
+**Thoughts**: Hopefully I can finish the express/mongo section before 100 days of code is over.
+
+**Links to work**:
+1. [github.com](https://github.com/seggiepants/freecodecamp/tree/master/data%20visualization/treemap%20diagram)
+2. [codepen.io](https://codepen.io/seggiepants/pen/abORQXw)
+
 ### Day N: Month Day, 2020
 
 **Today's Progress**: Put stuff here, copy/paste this for new days..
