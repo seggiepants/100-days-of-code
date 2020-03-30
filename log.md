@@ -780,6 +780,16 @@ Still want to add in a data-source switcher.
 1. [github.com](https://github.com/seggiepants/freecodecamp/tree/master/data%20visualization/treemap%20diagram)
 2. [codepen.io](https://codepen.io/seggiepants/pen/abORQXw)
 
+
+### Day 84: March 29, 2020
+
+**Today's Progress**: going through FreeCodeCamp's Basic Node and express lessons.
+
+**Thoughts**: Glitch.com seems, shall I say it, glitchy.
+
+**Links to work**:
+1. [glitch.com] (https://glitch.com/~foamy-silky-acorn)
+
 ### Day N: Month Day, 2020
 
 **Today's Progress**: Put stuff here, copy/paste this for new days..
