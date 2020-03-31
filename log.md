@@ -780,7 +780,6 @@ Still want to add in a data-source switcher.
 1. [github.com](https://github.com/seggiepants/freecodecamp/tree/master/data%20visualization/treemap%20diagram)
 2. [codepen.io](https://codepen.io/seggiepants/pen/abORQXw)
 
-
 ### Day 84: March 29, 2020
 
 **Today's Progress**: going through FreeCodeCamp's Basic Node and express lessons.
@@ -789,6 +788,17 @@ Still want to add in a data-source switcher.
 
 **Links to work**:
 1. [glitch.com] (https://glitch.com/~foamy-silky-acorn)
+
+
+### Day 85: March 30, 2020
+
+**Today's Progress**: Still doing lessons got up to Mongo/Mongoose install
+
+**Thoughts**: Why don't they tell you how to make stuff in mongoose. Don't just dump a landing page link on me. Give me something to go on.
+
+**Links to work**:
+1. [glitch.com] (https://jelly-iris-pea.glitch.me)
+
 
 ### Day N: Month Day, 2020
 
