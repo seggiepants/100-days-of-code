@@ -789,12 +789,20 @@ Still want to add in a data-source switcher.
 **Links to work**:
 1. [glitch.com] (https://glitch.com/~foamy-silky-acorn)
 
-
 ### Day 85: March 30, 2020
 
 **Today's Progress**: Still doing lessons got up to Mongo/Mongoose install
 
 **Thoughts**: Why don't they tell you how to make stuff in mongoose. Don't just dump a landing page link on me. Give me something to go on.
+
+**Links to work**:
+1. [glitch.com] (https://jelly-iris-pea.glitch.me)
+
+### Day 86: March 31, 2020
+
+**Today's Progress**: Still doing lessons got up to Mongo/Mongoose findById then update exercise.
+
+**Thoughts**: I swear, I copied the solution exactly and it wouldn't run. Not until I let stripe run javascript. Grrrr, that is really scummy. Almost forgot to do it today :(
 
 **Links to work**:
 1. [glitch.com] (https://jelly-iris-pea.glitch.me)
