@@ -808,6 +808,16 @@ Still want to add in a data-source switcher.
 1. [glitch.com] (https://jelly-iris-pea.glitch.me)
 
 
+### Day 87: April 1, 2020
+
+**Today's Progress**: Finally finished the lessons and started on the first microservice. I think it has some bugs, and I want to return a page by default if you don't hit the api. Otherwise, I think this is nearly done.
+
+**Thoughts**: Hardest part was getting the package.json working. I really should be doing this locally so github counts it as a code day.
+
+**Links to work**:
+1. [glitch.com](https://wobbly-tall-statistic.glitch.me)
+
+
 ### Day N: Month Day, 2020
 
 **Today's Progress**: Put stuff here, copy/paste this for new days..
