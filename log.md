@@ -787,7 +787,7 @@ Still want to add in a data-source switcher.
 **Thoughts**: Glitch.com seems, shall I say it, glitchy.
 
 **Links to work**:
-1. [glitch.com] (https://glitch.com/~foamy-silky-acorn)
+1. [glitch.com](https://glitch.com/~foamy-silky-acorn)
 
 ### Day 85: March 30, 2020
 
@@ -796,7 +796,7 @@ Still want to add in a data-source switcher.
 **Thoughts**: Why don't they tell you how to make stuff in mongoose. Don't just dump a landing page link on me. Give me something to go on.
 
 **Links to work**:
-1. [glitch.com] (https://jelly-iris-pea.glitch.me)
+1. [glitch.com](https://jelly-iris-pea.glitch.me)
 
 ### Day 86: March 31, 2020
 
@@ -805,7 +805,7 @@ Still want to add in a data-source switcher.
 **Thoughts**: I swear, I copied the solution exactly and it wouldn't run. Not until I let stripe run javascript. Grrrr, that is really scummy. Almost forgot to do it today :(
 
 **Links to work**:
-1. [glitch.com] (https://jelly-iris-pea.glitch.me)
+1. [glitch.com](https://jelly-iris-pea.glitch.me)
 
 
 ### Day 87: April 1, 2020
@@ -816,6 +816,17 @@ Still want to add in a data-source switcher.
 
 **Links to work**:
 1. [glitch.com](https://wobbly-tall-statistic.glitch.me)
+
+
+### Day 88: April 2, 2020
+
+**Today's Progress**: I think it is done and doing everything I want, but I can't get freeCodeCamp to run the tests against it which is frustrating.
+
+**Thoughts**: Why do I have to have a github link too, that's dumb.
+
+**Links to work**:
+1. [glitch.com](https://wobbly-tall-statistic.glitch.me)
+2. [github.com](https://github.com/seggiepants/freecodecamp/tree/master/apis%20and%20microservices/timestamp%20microservice)
 
 
 ### Day N: Month Day, 2020
