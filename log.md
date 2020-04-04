@@ -829,6 +829,16 @@ Still want to add in a data-source switcher.
 2. [github.com](https://github.com/seggiepants/freecodecamp/tree/master/apis%20and%20microservices/timestamp%20microservice)
 
 
+### Day 89: April 3, 2020
+
+**Today's Progress**: Started on the request header parser.
+
+**Thoughts**: I thought I could just iterate over req.headers but that doesn't seem to work, I don't have ip address or software.
+
+**Links to work**:
+1. [github.com](https://github.com/seggiepants/freecodecamp/tree/master/apis%20and%20microservices/request%20header%20parser)
+
+
 ### Day N: Month Day, 2020
 
 **Today's Progress**: Put stuff here, copy/paste this for new days..
