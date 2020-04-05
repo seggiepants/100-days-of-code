@@ -839,6 +839,17 @@ Still want to add in a data-source switcher.
 1. [github.com](https://github.com/seggiepants/freecodecamp/tree/master/apis%20and%20microservices/request%20header%20parser)
 
 
+### Day 90: April 4, 2020
+
+**Today's Progress**: Still working on the request header parser. Looks like it should be working, but it isn't.
+
+**Thoughts**: Why aren't things refreshing right, it isn't CORS this time, but freecodecamp won't run the tests.
+
+**Links to work**:
+1. [github.com](https://lava-deserted-capacity.glitch.me)
+2. [glitch.com](https://github.com/seggiepants/freecodecamp/tree/master/apis%20and%20microservices/request%20header%20parser)
+
+
 ### Day N: Month Day, 2020
 
 **Today's Progress**: Put stuff here, copy/paste this for new days..
