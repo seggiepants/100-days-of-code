@@ -846,9 +846,20 @@ Still want to add in a data-source switcher.
 **Thoughts**: Why aren't things refreshing right, it isn't CORS this time, but freecodecamp won't run the tests.
 
 **Links to work**:
-1. [github.com](https://lava-deserted-capacity.glitch.me)
-2. [glitch.com](https://github.com/seggiepants/freecodecamp/tree/master/apis%20and%20microservices/request%20header%20parser)
+1. [glitch.com](https://lava-deserted-capacity.glitch.me)
+2. [github.com](https://github.com/seggiepants/freecodecamp/tree/master/apis%20and%20microservices/request%20header%20parser)
 
+
+### Day 91: April 5, 2020
+
+**Today's Progress**: Finally figured out the problems with gettting text to run for the request header parser. The problem was .... I didn't set the content type for the result to application/json. Yeah, really, that was it. Grrr. After that I started on the next one the URL shortener, I am going to need a database for this one. Nothing much to show on that one yet.
+
+**Thoughts**: I hate fixing bugs only to feel dumb for having the problem in the first place.
+
+**Links to work**:
+1. [glitch.com](https://lava-deserted-capacity.glitch.me)
+2. [github.com](https://github.com/seggiepants/freecodecamp/tree/master/apis%20and%20microservices/request%20header%20parser)
+3. [glitch.com - URL Shortener](https://developing-rumbling-gatsby.glitch.me)
 
 ### Day N: Month Day, 2020
 
@@ -878,4 +889,7 @@ Still want to add in a data-source switcher.
 15. [Data Visualization Project #3 - Heat Map](https://codepen.io/seggiepants/full/xxGJLpo)
 16. [Data Visualization Project #4 - Choropleth Map](https://codepen.io/seggiepants/full/eYNPJPK)
 17. [Data Visualization Project #5 - Treemap Diagram](https://codepen.io/seggiepants/pen/abORQXw)
-18. [Name](http://www.example.com)
+18. [APIs and Microservices Project #1 - Timestamp Microservice](https://lava-deserted-capacity.glitch.me)
+19. [APIs and Microservices Project #2 - Request Header Parser Microservice](https://wobbly-tall-statistic.glitch.me)
+20. [APIs and Microservices Project #3 - URL Shortener Microservice](https://developing-rumbling-gatsby.glitch.me)
+21. [Name](http://www.example.com)
