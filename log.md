@@ -861,6 +861,16 @@ Still want to add in a data-source switcher.
 2. [github.com](https://github.com/seggiepants/freecodecamp/tree/master/apis%20and%20microservices/request%20header%20parser)
 3. [glitch.com - URL Shortener](https://developing-rumbling-gatsby.glitch.me)
 
+
+### Day 92: April 6, 2020
+
+**Today's Progress**: Not much further yet, trying to get an auto-number in mongo to be the shortened url. I am stealing from [tutorialspoint.com](https://www.tutorialspoint.com/mongodb/mongodb_autoincrement_sequence.htm).
+
+**Thoughts**: I need to start these earlier.
+
+**Links to work**:
+1. [glitch.com](https://developing-rumbling-gatsby.glitch.me)
+
 ### Day N: Month Day, 2020
 
 **Today's Progress**: Put stuff here, copy/paste this for new days..
