@@ -871,6 +871,16 @@ Still want to add in a data-source switcher.
 **Links to work**:
 1. [glitch.com](https://developing-rumbling-gatsby.glitch.me)
 
+
+### Day 93: April 7, 2020
+
+**Today's Progress**: Still working on the url shortener, hope to start testing soon. Think I have the basic parts in.
+
+**Thoughts**: Really need to do these earlier, so I have more energy.
+
+**Links to work**:
+1. [glitch.com](https://developing-rumbling-gatsby.glitch.me)
+
 ### Day N: Month Day, 2020
 
 **Today's Progress**: Put stuff here, copy/paste this for new days..
