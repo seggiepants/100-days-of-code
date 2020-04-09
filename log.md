@@ -881,6 +881,17 @@ Still want to add in a data-source switcher.
 **Links to work**:
 1. [glitch.com](https://developing-rumbling-gatsby.glitch.me)
 
+
+### Day 94: April 8, 2020
+
+**Today's Progress**: Started moving things to local to aid testing and check into github. Seem to be having errors with the auto-number function.
+
+**Thoughts**: Why is this taking me so long.
+
+**Links to work**:
+1. [glitch.com](https://developing-rumbling-gatsby.glitch.me)
+2. [github.com](https://github.com/seggiepants/freecodecamp/tree/master/apis%20and%20microservices/url%20shortener)
+
 ### Day N: Month Day, 2020
 
 **Today's Progress**: Put stuff here, copy/paste this for new days..
