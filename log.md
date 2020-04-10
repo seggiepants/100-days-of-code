@@ -892,6 +892,17 @@ Still want to add in a data-source switcher.
 1. [glitch.com](https://developing-rumbling-gatsby.glitch.me)
 2. [github.com](https://github.com/seggiepants/freecodecamp/tree/master/apis%20and%20microservices/url%20shortener)
 
+
+### Day 95: April 9, 2020
+
+**Today's Progress**: Finally got things working and checked in. Huzzah.
+
+**Thoughts**: Hope the next one isn't soo hard for me.
+
+**Links to work**:
+1. [glitch.com](https://developing-rumbling-gatsby.glitch.me)
+2. [github.com](https://github.com/seggiepants/freecodecamp/tree/master/apis%20and%20microservices/url%20shortener)
+
 ### Day N: Month Day, 2020
 
 **Today's Progress**: Put stuff here, copy/paste this for new days..
