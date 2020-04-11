@@ -871,7 +871,6 @@ Still want to add in a data-source switcher.
 **Links to work**:
 1. [glitch.com](https://developing-rumbling-gatsby.glitch.me)
 
-
 ### Day 93: April 7, 2020
 
 **Today's Progress**: Still working on the url shortener, hope to start testing soon. Think I have the basic parts in.
@@ -902,6 +901,18 @@ Still want to add in a data-source switcher.
 **Links to work**:
 1. [glitch.com](https://developing-rumbling-gatsby.glitch.me)
 2. [github.com](https://github.com/seggiepants/freecodecamp/tree/master/apis%20and%20microservices/url%20shortener)
+
+
+### Day 96: April 10, 2020
+
+**Today's Progress**: Started on the new project. Have it both local and on glitch this time. Not sure if I will finish before the 100 days are up. Right now I am trying to get the user routes working. No joy yet.
+
+**Thoughts**: It looks like user should return something but it isn't. (glitch isn't fully up to date yet.)
+
+**Links to work**:
+1. [glitch.com](https://fish-handsaw.glitch.me)
+2. [github.com](https://github.com/seggiepants/freecodecamp/tree/master/apis%20and%20microservices/exercise%20tracker)
+
 
 ### Day N: Month Day, 2020
 
@@ -934,4 +945,5 @@ Still want to add in a data-source switcher.
 18. [APIs and Microservices Project #1 - Timestamp Microservice](https://lava-deserted-capacity.glitch.me)
 19. [APIs and Microservices Project #2 - Request Header Parser Microservice](https://wobbly-tall-statistic.glitch.me)
 20. [APIs and Microservices Project #3 - URL Shortener Microservice](https://developing-rumbling-gatsby.glitch.me)
+21. [APIs and Microservices Project #4 - Exercise Tracker](https://fish-handsaw.glitch.me)
 21. [Name](http://www.example.com)
