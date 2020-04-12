@@ -914,6 +914,25 @@ Still want to add in a data-source switcher.
 2. [github.com](https://github.com/seggiepants/freecodecamp/tree/master/apis%20and%20microservices/exercise%20tracker)
 
 
+### Day 97: April 11, 2020
+
+**Today's Progress**: Change gears, moving stuff around, won't be able to get to my main computer at night for a week or two, I can however, get to my raspberry pi. All the passwords and what-not are on the main computer so until things are sorted out, I will be working on things with less dependencies. So for the first venture we are going to port mugwump_2d to python/pygame in my rosetta project.
+
+**Thoughts**: Wow, the keyboard I paired with the raspberry pi is pretty terrible to code on.
+
+**Links to work**:
+1. [github.com](https://github.com/seggiepants/rosetta/tree/master/python/mugwump2d)
+
+
+### Day 98: April 12, 2020
+
+**Today's Progress**: Got back on the main computer and synced my changes after checking it in to github on the raspberry pi. Then I spent some time with mugwump_2d/pygame (more fun than glitch stuff). Probably went well over an hour, but I do have the grid showing up at least.
+
+**Thoughts**: Nice to be back on the ergonomic keyboard. Renamed from mugwump2d to mugwump_2d to match the fuze4 version.
+
+**Links to work**:
+1. [github.com](https://github.com/seggiepants/rosetta/tree/master/python/mugwump_2d)
+
 ### Day N: Month Day, 2020
 
 **Today's Progress**: Put stuff here, copy/paste this for new days..
