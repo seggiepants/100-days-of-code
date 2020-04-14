@@ -933,6 +933,16 @@ Still want to add in a data-source switcher.
 **Links to work**:
 1. [github.com](https://github.com/seggiepants/rosetta/tree/master/python/mugwump_2d)
 
+
+### Day 99: April 13, 2020
+
+**Today's Progress**: Got the side bar in and somewhat working (haven't tested a mode yet), as well as keyboard control (most of it). I should be getting close.
+
+**Thoughts**: Tomorrow is the big day, day 100, last day of the log so I can say I finished the challenge. Will try to finish this up tomorrow if possible, if not then soon afterward (well maybe I get a break for a bit inbetween).
+
+**Links to work**:
+1. [github.com](https://github.com/seggiepants/rosetta/tree/master/python/mugwump_2d)
+
 ### Day N: Month Day, 2020
 
 **Today's Progress**: Put stuff here, copy/paste this for new days..
