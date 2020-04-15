@@ -950,7 +950,7 @@ Still want to add in a data-source switcher.
 **Thoughts**: I win the challenge huzzah!! Now what will I do with my life?
 
 **Link(s) to work**: 
-1. [Name](http://www.example.com)
+1. [github.com](https://github.com/seggiepants/rosetta/tree/master/python/mugwump_2d)
 
 
 **Links to projects worked on during 100 days of code**
@@ -975,4 +975,4 @@ Still want to add in a data-source switcher.
 19. [APIs and Microservices Project #2 - Request Header Parser Microservice](https://wobbly-tall-statistic.glitch.me)
 20. [APIs and Microservices Project #3 - URL Shortener Microservice](https://developing-rumbling-gatsby.glitch.me)
 21. [APIs and Microservices Project #4 - Exercise Tracker](https://fish-handsaw.glitch.me)
-21. [Name](http://www.example.com)
+22. [Python version of Mugwump_2d](https://github.com/seggiepants/rosetta/tree/master/python/mugwump_2d)
