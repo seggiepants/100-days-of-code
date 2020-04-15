@@ -943,11 +943,11 @@ Still want to add in a data-source switcher.
 **Links to work**:
 1. [github.com](https://github.com/seggiepants/rosetta/tree/master/python/mugwump_2d)
 
-### Day N: Month Day, 2020
+### Day 100: April 14, 2020
 
-**Today's Progress**: Put stuff here, copy/paste this for new days..
+**Today's Progress**: Not finished, but pretty close. The win/lose dialog is missing as well as some game logic, but it is nearly done.
 
-**Thoughts**: Today's deep thought(s).
+**Thoughts**: I win the challenge huzzah!! Now what will I do with my life?
 
 **Link(s) to work**: 
 1. [Name](http://www.example.com)
